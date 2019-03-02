@@ -1,0 +1,51 @@
+Circuitry/Saved/Crashes/UE4CC-Windows-8A632CFD4BC7A9C073F2D987147EE369_0000/CrashReportClient.ini
+Circuitry/Saved/Crashes/UE4CC-Windows-8A632CFD4BC7A9C073F2D987147EE369_0000/CrashContext.runtime-xml
+Circuitry/Saved/Config/CrashReportClient/UE4CC-Windows-8A632CFD4BC7A9C073F2D987147EE369/CrashReportClient.ini
+Circuitry/Saved/Crashes/UE4CC-Windows-8A632CFD4BC7A9C073F2D987147EE369_0000/UE4Minidump.dmp
+
+# =============== #
+# Unreal generated #
+# =============== #
+.vs/
+Binaries/
+Intermediate/
+Saved/
+
+# ===================================== #
+# Visual Studio#
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+# ================ #
+# Project Specific #
+# ================ #
+Builds/
+Screenshots/
+~$FirstPresentationTemplate.pptx
+~$ncepts.docx
+FirstPresentationTemplate.pptx
