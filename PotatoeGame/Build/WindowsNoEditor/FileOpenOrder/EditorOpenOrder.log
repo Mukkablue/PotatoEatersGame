@@ -1690,657 +1690,498 @@
 "../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 1690
 "E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Intermediate/AssetRegistryCache/311563bb.bin" 1691
 "E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Intermediate/AssetRegistryCache/c90e3f55.bin" 1692
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/BurningBark/Burning_Bark.uasset" 1693
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/BurningBark/Burning_Bark_INST.uasset" 1694
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/BurningBark/Burning_Bark_INST_ambientOcclusion.uasset" 1695
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/BurningBark/Burning_Bark_INST_basecolor.uasset" 1696
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/BurningBark/Burning_Bark_INST_emissive.uasset" 1697
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/BurningBark/Burning_Bark_INST_metallic.uasset" 1698
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/BurningBark/Burning_Bark_INST_normal.uasset" 1699
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/BurningBark/Burning_Bark_INST_roughness.uasset" 1700
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1701
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 1702
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1703
-"../../../Engine/Content/BasicShapes/Cone.uasset" 1704
-"../../../Engine/Content/BasicShapes/Plane.uasset" 1705
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1706
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1707
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Intermediate/AssetRegistryCache/9456d10d.bin" 1708
-"../../../Engine/Config/HTML5/HTML5Engine.ini" 1709
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1710
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1711
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1712
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoeGameMode.uasset" 1713
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoeGameState.uasset" 1714
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1715
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_Platform.uasset" 1716
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_EndOfLevel.uasset" 1717
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/BP_GameJamKit_HUD_Interface.uasset" 1718
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PhysicsBallBP.uasset" 1719
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/BP_GameJamKit_InGame_HUD.uasset" 1720
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/UMG_GameJam_LoadingScreen_Widget.uasset" 1721
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/PotatoeEatersPic.uasset" 1722
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/UMG_GameJam_GameOver_Widget.uasset" 1723
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/bASE/UMG_GameJam_Button_Base.uasset" 1724
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/InGameWidget.uasset" 1725
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Floor.uasset" 1726
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/M_WoodPlanks_Inst.uasset" 1727
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/M_WoodPlanks.uasset" 1728
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uasset" 1729
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 1730
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 1731
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 1732
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 1733
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 1734
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 1735
-"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 1736
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_Albedo.uasset" 1737
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_AO.uasset" 1738
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_Displacement.uasset" 1739
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_Normal.uasset" 1740
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_Roughness.uasset" 1741
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table.uasset" 1742
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Bottom.uasset" 1743
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Bottom_BaseColor.uasset" 1744
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Bottom_Normal.uasset" 1745
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Bottom_OcclusionRoughnessMetallic.uasset" 1746
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Top.uasset" 1747
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Top_BaseColor.uasset" 1748
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Top_Normal.uasset" 1749
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Top_OcclusionRoughnessMetallic.uasset" 1750
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Wall.uasset" 1751
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/M_WoodPlanks_InstWall.uasset" 1752
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Glass_DM.uasset" 1753
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/M_Glass.uasset" 1754
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/lambert1.uasset" 1755
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Plate_lambert1_BaseColor.uasset" 1756
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Plate_lambert1_Normal.uasset" 1757
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Plate_lambert1_OcclusionRoughnessMetallic.uasset" 1758
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Glass.uasset" 1759
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/M_MudAndSticks_Inst.uasset" 1760
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/M_MudAndSticks.uasset" 1761
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_Albedo.uasset" 1762
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_AO.uasset" 1763
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_Displacement.uasset" 1764
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_Normal.uasset" 1765
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_Roughness.uasset" 1766
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/WindowWithWall.uasset" 1767
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/Bp_ForkTrap.uasset" 1768
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Potatoe.uasset" 1769
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/M_Potatoe.uasset" 1770
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Potatoe_M_Potatoe_BaseColor.uasset" 1771
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Potatoe_M_Potatoe_Normal.uasset" 1772
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Potatoe_M_Potatoe_OcclusionRoughnessMetallic.uasset" 1773
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Fork.uasset" 1774
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/WorldGridMaterial.uasset" 1775
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Fork_WorldGridMaterial_BaseColor.uasset" 1776
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Fork_WorldGridMaterial_Normal.uasset" 1777
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Fork_WorldGridMaterial_OcclusionRoughnessMetallic.uasset" 1778
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/UMG_GameJam_PauseMenu_Widget.uasset" 1779
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/MouthHUD.uasset" 1780
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/InsideMouth.uasset" 1781
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_HandAndFork.uasset" 1782
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/HandBlueprintMask/M_HandMask.uasset" 1783
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 1784
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 1785
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/Material_004.uasset" 1786
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/HAND_C.uasset" 1787
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/HAND_N_.uasset" 1788
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/HAND_S.uasset" 1789
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/Hand_Gripping.uasset" 1790
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_Plate.uasset" 1791
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Plate.uasset" 1792
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_SwingingLight.uasset" 1793
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1794
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/KillBox.uasset" 1795
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoGameInstance.uasset" 1796
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/2/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__0B6BCBCD35AE18F4255E6A860F4CF5FB2BFBDF18.udd" 1797
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/6/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_038B4CCF4B0F8DFCE__D0A84303BA6250974793FB0969647E36394A2E0C.udd" 1798
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/6/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_038B4CCF4B0F8DFCE840F48209318A8__717675492ADE25F05BF7682C90C315A110C188D1.udd" 1799
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/4/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__62EA6E2C8E32FFDD7CEDC7AB180E416F89F69AA0.udd" 1800
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/1/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_14FA68EA4C9362A4D__4F73C33870526814F51B09936177973C4F1D0BBC.udd" 1801
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/8/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__44F05EF1943FC5B5B802782FE74602452B7C69FD.udd" 1802
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/5/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_267C9166430AC4279__2C178A2900D87092669D487823B82DA94C7FEEBD.udd" 1803
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/9/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__83E60139D7A8674B5BBEFADAEAE720C834BF1124.udd" 1804
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/3/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_6BA7295F4F45BFD3E__285C898371EC86A935AEE697AD81412E06B09C94.udd" 1805
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/7/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__E432DE615F4CB65FE7FDFECA509FEEB63398C66C.udd" 1806
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/7/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_1CBBF47C4F80A73B7__777D4C3F79A9895EC2000C60F5CB3CD0CD55BDFD.udd" 1807
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/7/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__54F4F02D5652F4EF4F80619C4C4B5883F0E0A823.udd" 1808
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/5/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_AB263ABE497BD674D__ADA7B3BB8326716C3262AC87E225A2DFE7A069AA.udd" 1809
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_AB263ABE497BD674D38F98A254F729A__5F5C8D52839390D97A2505C3E8D7BA40735F067B.udd" 1810
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/6/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_14FA68EA4C9362A4DF89E7B35116E3D__7A0F8168CC7331C728E2554BA54A460837B9FE03.udd" 1811
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_267C9166430AC4279FC1A8A97A1B6D7__6B213707BBCB618DB6A139B98953BBA82D1A7718.udd" 1812
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/7/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__386B2FF27115478275902E7EBFFB485BD56BF665.udd" 1813
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/3/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_96C212614A5C983EF__461CA0133E33A15983417B9CC2ED2863192BD2DD.udd" 1814
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_96C212614A5C983EFEE87D826BCB961__C6A636EECEF7698B7EDE27C127B49420B79411D7.udd" 1815
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/7/SKELETALMESH_62632E8FC541408082BCF5CDBF0F301A_CF29FEA5480DB5D75B8F23BA651E13180000000000000000000000000000000000.udd" 1816
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/2/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_1CBBF47C4F80A73B7973229CAC58B0F__45C9FA985832176649E9DDF4E49A0BA99C580305.udd" 1817
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_6BA7295F4F45BFD3E21B19994A85CCB__5C203AE4C283F106C99DF11DCBEE26B70B708701.udd" 1818
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/1/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__D0F3F363A76391DF197AB15CA1D4418857DA5D93.udd" 1819
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/2/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_8A307D6E40223E429__47E7477404267C1CC946FF7A880D2AE7B97D9C78.udd" 1820
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/8/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_8A307D6E40223E4291B2D4A9717FD8C__0E98F8C230ED1925B1704484A7F92E4AD86A31F6.udd" 1821
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/5/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__C5607DBE6B4A94650994C4D3FABFA7ADEDA2B2DC.udd" 1822
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/1/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_ADB9629F4EC1D2FBD__F965101C12ABFC903C50BEB985B8BA353545C4D5.udd" 1823
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_ADB9629F4EC1D2FBD51F01BB0633B6C__E03A7D3E8A9BAE4FB3B39E971C12DDD57B886873.udd" 1824
-"../../../Engine/Content/Maps/Entry.umap" 1825
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1826
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_2007817742127577A37A32A06BF0AE4__4535493788245B51D073CA05BEEE2A67C51DAFCB.udd" 1827
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/6/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___9007612A6CD461E3CCD5C9175D258C5AFAE0DFA9.udd" 1828
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/2/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___2939A2042C163012604740E1F01FE23856E87AAC.udd" 1829
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/2/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___05C07B2F769BBE2F179CC8350F4AD459AAEC6942.udd" 1830
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/6/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___CDB4E80398626C8F3D0357E319758DC8199EA0E0.udd" 1831
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Maps/MainMenu.umap" 1832
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/MainMenuGM.uasset" 1833
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/BP_GameJamKit_MainMenu_HUD.uasset" 1834
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/UMG_GameJam_MainMenu_Widget.uasset" 1835
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Blueprint/BP_GoodSky.uasset" 1836
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_Stars.uasset" 1837
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_AllOverlayColor.uasset" 1838
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_BaseCloudColor.uasset" 1839
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_DomeColor.uasset" 1840
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_horizon_Color.uasset" 1841
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection.uasset" 1842
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/DataTable/DataTable_GoodSky.uasset" 1843
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Structure/Structure_GoodSky.uasset" 1844
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/M_GoodSky_Base.uasset" 1845
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 1846
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_SkyDomeAlpha.uasset" 1847
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Time.uasset" 1848
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_A.uasset" 1849
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_B.uasset" 1850
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_F.uasset" 1851
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_sphere.uasset" 1852
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/M_GoodSky_Moon.uasset" 1853
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsAroundPoint.uasset" 1854
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_Moon.uasset" 1855
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/M_GoodSky_Storm.uasset" 1856
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uasset" 1857
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 1858
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 1859
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 1860
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 1861
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 1862
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 1863
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 1864
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 1865
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 1866
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_LightningFlick.uasset" 1867
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_noise_smooth.uasset" 1868
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_Lightning.uasset" 1869
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/M_GoodSky_Sun_Stars.uasset" 1870
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_Stars.uasset" 1871
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.uasset" 1872
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.uasset" 1873
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.uasset" 1874
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.uasset" 1875
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.uasset" 1876
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Mesh/SM_GoodSky_Hemisphere.uasset" 1877
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Mesh/SM_GoodSky_Sphere.uasset" 1878
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_C.uasset" 1879
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_D.uasset" 1880
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_E.uasset" 1881
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/0/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__3E80BF68BE305805A8E3C860D5B9F921ACED39DD.udd" 1882
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/1/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_C03D762942429DB6B__4CD82406C17E7F9A49564C1C7B5EC666B72E1460.udd" 1883
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_C03D762942429DB6BD564B991EEE211__5DFF1D036A72E56BB4BCF34CF278FCFD138285F3.udd" 1884
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/7/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__8F3C9DFDC3BCA21F2BE47A73AB6B05DEA4ADEFFC.udd" 1885
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/7/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_8D0DE51D4FA334590__BF4D8A3E6571979EFF9235A10E763CE83AA8E9B3.udd" 1886
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_8D0DE51D4FA334590B590B8BAA14BE6__E3CD22749E57E0152DE93E561F55B1A25399681D.udd" 1887
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 1888
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_CC929EC441189E2874F210A429849__86BAB5059591C0FC1AA2F79822D933DF273FE1C1.udd" 1889
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_CC929EC441189E2874F210A429849__5DF84F9E33DFDEE79DE525A423CBF461BB4900D0.udd" 1890
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D9B378C45F18B6B8D869FAAB511F__2311D3DD7CC7A9993CE13C0AAEC2393AAB1B6BC9.udd" 1891
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D9B378C45F18B6B8D869FAAB511F__122B9A9213832F92C592A992C2D3A0FEFA3120A2.udd" 1892
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/5/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___9D563DC13C8C354FA502A6FEF8FB6E6CF92A6FE5.udd" 1893
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_CC929EC441189E2874F210A429849__0B2F2261BC7E179BA3A8DD6D13774740B6534847.udd" 1894
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_CC929EC441189E2874F210A429849__B7A2A0B95C7AE36E4794B23F344BBBCE41E479E4.udd" 1895
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_CC929EC441189E2874F210A429849__EA32C6EA7095D3EBF83622EE11B30CBFE9ECD7A3.udd" 1896
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_CC929EC441189E2874F210A429849__71248106A70CDAE326ADADF529885D428B272B89.udd" 1897
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5DFB7E584B7CECBD5D79D89833E22__DC00C278B70DBB2F0780DE1C5E62E84F0F00FD00.udd" 1898
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5DFB7E584B7CECBD5D79D89833E22__4CE95698F3479E8B19B06CAAB65C5A481625A1A8.udd" 1899
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D9B378C45F18B6B8D869FAAB511F__EDDBC1922FAF3B9B32248E8546A2873B4487A8DE.udd" 1900
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D9B378C45F18B6B8D869FAAB511F__3E923C6B87CF4503D8B451C56F802EA7109D2922.udd" 1901
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D9B378C45F18B6B8D869FAAB511F__8BEBCFCDC64E5A434E9CABFDECBB15DD259D896B.udd" 1902
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D9B378C45F18B6B8D869FAAB511F__94947974923EC5377D56030820ED4D94DBF71879.udd" 1903
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1EE71F254A0B8590612C0F84321DD274___941D4FD33AB2DDB59AD4067359F1BD16D9BD0283.udd" 1904
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1EE71F254A0B8590612C0F84321DD274___AE6C4370D731AB129D491551C748F6811439086F.udd" 1905
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5DFB7E584B7CECBD5D79D89833E22__3F043B13543A1555CA234F69CE0C41A4CCD7678A.udd" 1906
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5DFB7E584B7CECBD5D79D89833E22__B59D3C2EE9C457A0AD1AA9A34896F1DBFB29CFF5.udd" 1907
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/6/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___6FFE757B019EA1B9B197DA4A445615E14F4399A7.udd" 1908
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5DFB7E584B7CECBD5D79D89833E22__2BBA19F1B51D898E9E49F0958ADF3ACFC7F0E816.udd" 1909
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5DFB7E584B7CECBD5D79D89833E22__F2E408E692CDCDEF711731EDBC7906ED1F91D850.udd" 1910
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7B03AEA84F33490A28AAB580CD1D3__80E65C972D59542DAEB9EFECADFCFC608675190A.udd" 1911
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7B03AEA84F33490A28AAB580CD1D3__63ECDF86C7A634B1868C43F3AF9699EDC90028F9.udd" 1912
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7B03AEA84F33490A28AAB580CD1D3__94B2F5A321DBF5EB308683EB9F9503DFBC423937.udd" 1913
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1EE71F254A0B8590612C0F84321DD274___83490830706DD2A4DA25E80B7FB61707513DDC77.udd" 1914
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7B03AEA84F33490A28AAB580CD1D3__64253DFC7DE260E9A56AF5001227956305159DDD.udd" 1915
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7B03AEA84F33490A28AAB580CD1D3__2617A6FC27BBAA093C675D1ABA84699C1A967328.udd" 1916
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7B03AEA84F33490A28AAB580CD1D3__85DC9FFA7EEDE7FDA8ED3BE9DAD5370C4B0A2D94.udd" 1917
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_72854575429848B6A829CDAABDC0B__00EA83EF1C3350428D290A92B1A09DD93F466DE8.udd" 1918
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1EE71F254A0B8590612C0F84321DD274___E171DAA24083DFA5E5A33FBC707707D03F4DB7E9.udd" 1919
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_72854575429848B6A829CDAABDC0B__3E1D8B23FE3EB2CBFE86A0820E9DF47AC3A1C1BB.udd" 1920
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1EE71F254A0B8590612C0F84321DD274___CAD2C61F17D5F3273C00FF8B0F04ABB3C858F452.udd" 1921
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1EE71F254A0B8590612C0F84321DD274___0B2A62A7602E064D98D108C7C43236C7E29D5117.udd" 1922
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_72854575429848B6A829CDAABDC0B__F00618AC16832B7F01507715A09E6CBDCA3CB975.udd" 1923
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1AB28317498E6669C98A14A3F25837D9___D8724027609A937CA199FDAAC97F57390B59A4A0.udd" 1924
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1AB28317498E6669C98A14A3F25837D9___2FBB9597C0DDA0B3D29B8E2CC54ED25BA57F85E0.udd" 1925
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_72854575429848B6A829CDAABDC0B__D8E7E81B895E74DBA320E5C1DE9A44C497655973.udd" 1926
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_72854575429848B6A829CDAABDC0B__2110811245E5EB883E3DD342F14150677256D9CF.udd" 1927
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4DF7D0124B1DAFAC69CFDE83836CE__4571D31F861D0CE06A030D7BECFD9E4E3E8064DD.udd" 1928
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4DF7D0124B1DAFAC69CFDE83836CE__C214D4B772302A309D38B92158BE1BB06CA85E20.udd" 1929
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/5/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___7247D95F782A2FD87CCA7C3942E459EE7EA8089F.udd" 1930
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1AB28317498E6669C98A14A3F25837D9___F8EF953811CEA9CCED22DC5019F432D005054129.udd" 1931
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4DF7D0124B1DAFAC69CFDE83836CE__77A34A9C845755857C45DA76331B07139D681B45.udd" 1932
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1AB28317498E6669C98A14A3F25837D9___7DE8E4C24E0AAC70A865219215EFB64F7CA1B7B8.udd" 1933
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4DF7D0124B1DAFAC69CFDE83836CE__1B1EA8E1E504CB877436971BACCDCF7660B17CBB.udd" 1934
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1AB28317498E6669C98A14A3F25837D9___1919005338F574D34F1406514931F076D1312F3A.udd" 1935
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4DF7D0124B1DAFAC69CFDE83836CE__BE5CE14F62888BD8ACDA4A92E9D3C31468319705.udd" 1936
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/8/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___41996D3C27CBA8EAECFE28111ED14CA8675D2FA8.udd" 1937
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6ECE52E540C8F5A6604E3BBD27FDF__74B250E1D35DA429057C6DEC1B1A79B6CAC713C8.udd" 1938
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6ECE52E540C8F5A6604E3BBD27FDF__1E9060FB9CE34161D42970581753AF85FB915901.udd" 1939
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_72AC0C53465688072FB734A4E5EB7F13___0E271CEF83163C76E45A6AC6DEB617CF5D51CBC6.udd" 1940
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6ECE52E540C8F5A6604E3BBD27FDF__6DDAEFEF0712119B4DB30F39018D839967B6BA76.udd" 1941
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_72AC0C53465688072FB734A4E5EB7F13___46DC717AC0721A311AB02FCAD4EE59B0204BBBB1.udd" 1942
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6ECE52E540C8F5A6604E3BBD27FDF__86215CEBD59F115EE1CA9A9B153E37E40BBC87E0.udd" 1943
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6ECE52E540C8F5A6604E3BBD27FDF__71F5692370F8FECAC17E869502B7C418896ADB2C.udd" 1944
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_72AC0C53465688072FB734A4E5EB7F13___57E37DB32B94FCCFFC3B56CAF171DD82779CF508.udd" 1945
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_72AC0C53465688072FB734A4E5EB7F13___FC56637883A4A42D3E55B2484D90A5E7DEAE1EA9.udd" 1946
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_72AC0C53465688072FB734A4E5EB7F13___71C5C9F6EB0E2B9EBD145BD5343A841A4D9BBF2C.udd" 1947
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D9D790544F70000B50C98BA94E82D__AF44D08F118E0EEF704146E6F2469F36626669CA.udd" 1948
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D9D790544F70000B50C98BA94E82D__790A0C867658BB48AA6BFCD5C942BA69F46B9FEF.udd" 1949
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D9D790544F70000B50C98BA94E82D__D2F6A73B5D3B01820CD55A408B29AB5124DA5FE5.udd" 1950
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D9D790544F70000B50C98BA94E82D__C14B8397C904F29358B92052C4C84FB3C60776C1.udd" 1951
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D9D790544F70000B50C98BA94E82D__8B09C83938D18FC8F50A659E2DC05C1B5CB67A2B.udd" 1952
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/9/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___C6C9EE678FCB905D2BAF0672169D90AD7DD8223B.udd" 1953
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/4/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___E26E7F23887F03F4AB90152A041ADC1B1021C4F8.udd" 1954
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/1/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___179D2E4BAB0B56AA9F7C2FA73A1EB4FBBF5A0148.udd" 1955
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/4/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___B14A2CC4748B4C1B0FAF6CAEDF5D0EED13554AE8.udd" 1956
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_120253E4446E9756D1AEFD831505F__C2160FE24CF7D931DBF795FEBF97E8678C924351.udd" 1957
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_120253E4446E9756D1AEFD831505F__4BB6CCC85D42B788602A07C5D27CA18EB73AF60F.udd" 1958
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_120253E4446E9756D1AEFD831505F__47FE19D784ED91B30C420FB071C1BE4EB053086F.udd" 1959
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_120253E4446E9756D1AEFD831505F__57C0B89F34023B9D00C05B4405C4A8F715222D9A.udd" 1960
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_120253E4446E9756D1AEFD831505F__58098E3240EA6EA0122B03905B6222AD4370E833.udd" 1961
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_65B54A774B0CC6C32124069151A3BF0B___C16D570EB00CEA14475976F378A4DF719BCA0FDE.udd" 1962
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_65B54A774B0CC6C32124069151A3BF0B___D726281D78BF8EB60FA14649F3EBA50A6F9665B1.udd" 1963
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_65B54A774B0CC6C32124069151A3BF0B___3018A09913071ED13BF611E5F85EFFAF8706F5BC.udd" 1964
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_65B54A774B0CC6C32124069151A3BF0B___84CFDB51C9392B0B7F7D358B69402B0781B01075.udd" 1965
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_65B54A774B0CC6C32124069151A3BF0B___AF4DC7D20E530584B5FB9E195BA81D482F95C8F8.udd" 1966
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_935F2AC442EAC9CBAF7947AE7A8F3__CAF24C0028A46440D10D7C14D6B09C9FF18185AA.udd" 1967
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_935F2AC442EAC9CBAF7947AE7A8F3__BC91C0AA837624190BE1B73BA533A47B4E7E2EFD.udd" 1968
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_935F2AC442EAC9CBAF7947AE7A8F3__CBF6476DB4372F9D47B58CCCFE30A9986AA53516.udd" 1969
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_935F2AC442EAC9CBAF7947AE7A8F3__7A8FB601D31B10DFC4EC3AE74939701951A12653.udd" 1970
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_935F2AC442EAC9CBAF7947AE7A8F3__3DB3FFDF9F54C3C620A12A3E8E17159B7CE53669.udd" 1971
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/4/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___EE0C20BCCF00A132D83D178437BE37708507B496.udd" 1972
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/3/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___F51096D5C6DABE5ADE3E7272C1C7D94AFF50F99D.udd" 1973
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/0/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___00A33C1BCDFABBA8959ECE8A2546F253EBB3581D.udd" 1974
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/8/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___50D08505BF9957D0CEB95DC5EEE6D1CCFB453AA5.udd" 1975
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84D6BA074357A984872FD3A8DC865__3D1CB7E12647F09F667D6D7CBF5991347F2C4A3B.udd" 1976
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84D6BA074357A984872FD3A8DC865__B404204C70C711A1DCE9C085634F809E8B40197C.udd" 1977
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5750674448C7FBA7E9E9FFA290FBB__D37CC432B3B04A1F2F652310BE186261E9DB1FF3.udd" 1978
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5750674448C7FBA7E9E9FFA290FBB__7C1129BA4B53732E67F8AB085F67E0A5A03C104F.udd" 1979
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84D6BA074357A984872FD3A8DC865__B6B105AEA8B23FE535DB29C4CBF582EAE234968E.udd" 1980
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84D6BA074357A984872FD3A8DC865__FB2C112B73D26F5469214DFCB27478CAF7466591.udd" 1981
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84D6BA074357A984872FD3A8DC865__AC47609EC44FCF34B35E1539E8FBB7467C8B6D95.udd" 1982
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5750674448C7FBA7E9E9FFA290FBB__D26A2F1979A486ABF4084ED3EFCDD411AC55AE17.udd" 1983
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84D6BA074357A984872FD3A8DC865__9BCC93EF00B3EB669753037EE541276017975BE3.udd" 1984
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5750674448C7FBA7E9E9FFA290FBB__59B555CB5CEE5E2DE9A334078FE22D189A2B49C5.udd" 1985
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5750674448C7FBA7E9E9FFA290FBB__9638284FACACFA0F41915BAC3E922D47B023E0B0.udd" 1986
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5750674448C7FBA7E9E9FFA290FBB__67AB5771C80BC43A1552AFDE9C0AF89C780EC278.udd" 1987
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6946D4914ABB4244DBE3BE97EF1F8__3E438E57F9A5999148B03D3D408C6866FE636FEB.udd" 1988
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6946D4914ABB4244DBE3BE97EF1F8__B85D488FF1309DC5700A7FBB78F9CC57E8F0EBDC.udd" 1989
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_2973EED348CAAE34FED07EBD214971BC___AA79E24BDA6507816C868E2E8CB6E96895B6CD60.udd" 1990
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6946D4914ABB4244DBE3BE97EF1F8__ABD93811BD09E8FDE6A663A65DFD0817C83FAB61.udd" 1991
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_2973EED348CAAE34FED07EBD214971BC___E3A7535EF12F780B951B01CD69927578CA4383E9.udd" 1992
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6946D4914ABB4244DBE3BE97EF1F8__E65B9ACAB3514BA309DD068B36767042861603AA.udd" 1993
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6946D4914ABB4244DBE3BE97EF1F8__E5002DD56A2EB515AA2BD4622F9027256696757F.udd" 1994
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6946D4914ABB4244DBE3BE97EF1F8__EE20A4FF67B6D27996681E92291B006EBDB01864.udd" 1995
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0C6F8850425CE82F83F1D4AE173C2__995A86F61DA9F27B4E630DE985DCE8717D7413A3.udd" 1996
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0C6F8850425CE82F83F1D4AE173C2__00EEED04526094FA94A7FA3C749FB7DF283D371B.udd" 1997
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0C6F8850425CE82F83F1D4AE173C2__9495F945DD20581F45B2DB0CF9F3AD247575A160.udd" 1998
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0C6F8850425CE82F83F1D4AE173C2__46A7771569193C3AB60F262511867A8FE7A42B3E.udd" 1999
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0C6F8850425CE82F83F1D4AE173C2__F0948085FFE798176DE9BA2F7C3D6C06A3ADDC5C.udd" 2000
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0C6F8850425CE82F83F1D4AE173C2__6C2429D4EEA312A893471F1C62377DAB9859D2EC.udd" 2001
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/8/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___4B1CD50C187092A5C190D6CEC06B0D7377A5D093.udd" 2002
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_2973EED348CAAE34FED07EBD214971BC___3D0A46E0674DAD5EC92C92EC444F052DB6113E37.udd" 2003
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/8/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___0E8DB89BEB87B9A29CF495D18EDCE4ABDCA51B5D.udd" 2004
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_2973EED348CAAE34FED07EBD214971BC___3C11CBB8D39968494DE9FFC78710205DF24F1FE4.udd" 2005
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_2973EED348CAAE34FED07EBD214971BC___F410549AA70B9C68CFA36D0DC33212C172F6E681.udd" 2006
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_2973EED348CAAE34FED07EBD214971BC___07FF3C1DCA6AA49325B34AABF391D06335E27903.udd" 2007
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_68BEFFD641FBAA8B1D72709679ECA__20E08341AF764288A7161C5F6DECDB3E613B2980.udd" 2008
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_68BEFFD641FBAA8B1D72709679ECA__D098D33A15F001BACABD5D4FD19A3325A5E1F34D.udd" 2009
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_EDEEBABD463ACE9AC920D08893D13B8D___23420342A12B30599262B69369136C8B60998CF3.udd" 2010
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_68BEFFD641FBAA8B1D72709679ECA__C51DE1CD19CC48C09F09E8B20363A96A81378514.udd" 2011
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_EDEEBABD463ACE9AC920D08893D13B8D___1A64C3941D5A7517E1B8A85BC7837CF3CE1E8442.udd" 2012
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_68BEFFD641FBAA8B1D72709679ECA__DB954A676B0A9A1E5E7568E366DB17C95A9B3A92.udd" 2013
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_68BEFFD641FBAA8B1D72709679ECA__22CCC6153719C4958DDA899C08495AC059FB88EA.udd" 2014
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_EDEEBABD463ACE9AC920D08893D13B8D___1745CF8EF47FEE00B1484C21D56930D0327692C3.udd" 2015
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_EDEEBABD463ACE9AC920D08893D13B8D___6CC0B70FD89B3681FDAB178953B68275536DCE42.udd" 2016
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_EDEEBABD463ACE9AC920D08893D13B8D___F49F55582A2DC28EC2C456B6303464C4F40C7807.udd" 2017
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_ABE8BB334AA8F46DDCD6D3BD36120__20E9500653BA0B063D2C753D389775D91EBCF70C.udd" 2018
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_ABE8BB334AA8F46DDCD6D3BD36120__2D971ECACC15B0D4CCDF5F738BC0DC1E2668CAFB.udd" 2019
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_ABE8BB334AA8F46DDCD6D3BD36120__E2FAB470143CC5F0CD9857B8C82F30A14BCEE60E.udd" 2020
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_ABE8BB334AA8F46DDCD6D3BD36120__A049EE88CA258F628564F5CA527C386F144EDAE6.udd" 2021
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_ABE8BB334AA8F46DDCD6D3BD36120__93D7D62B321936E17F1F34D2F6FE8D74CC332772.udd" 2022
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/5/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___C8AABD4E025E20312F5B435AFD3F4119EF1A8AB3.udd" 2023
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/7/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___5726495F2B657A1BD6572462526D5A6799E63E6B.udd" 2024
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3217B8644B40CA6267367C82A8B4C__9312CE58DBF4FD1A7323D272D57B822560A0F40C.udd" 2025
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3217B8644B40CA6267367C82A8B4C__FACBEA34E31825DB0D057D0A669570D9FEF229C5.udd" 2026
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3217B8644B40CA6267367C82A8B4C__99A53A1A7BBDDFE9C5CB1B1F8013F3F9209F3B14.udd" 2027
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_BE8522AC4203083B587F6DAE759C148A___46DD572226B28B1080FD8C69F5C8B0114AFF9897.udd" 2028
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3217B8644B40CA6267367C82A8B4C__BE9094011572859D4C82F295B1C46064B253CF9E.udd" 2029
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_BE8522AC4203083B587F6DAE759C148A___9B993E9A6B033AE57FB7037DEAA23A0BE060CB9B.udd" 2030
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3217B8644B40CA6267367C82A8B4C__4438D4DAEB210D9A3F973D9897452B3292788C40.udd" 2031
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_BE8522AC4203083B587F6DAE759C148A___43648DE2EF5BAB072A9C61CAE2BDF510F46933EB.udd" 2032
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_BE8522AC4203083B587F6DAE759C148A___986F8E87796C909A636C55CEB58206C2344B8AE3.udd" 2033
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_BE8522AC4203083B587F6DAE759C148A___B38736ED1AADC0D7091FA9E9C7E539CF34C7CA51.udd" 2034
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1CD2E31C44E3E43F447309A928D77__B435C21245B9B05479622409847B863ADC98F053.udd" 2035
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1CD2E31C44E3E43F447309A928D77__18B061D802DD33EF8E240886B3AF7C9929C971F6.udd" 2036
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1CD2E31C44E3E43F447309A928D77__E10461C93CCA9CE3C8D7A2E0BD2BCFFB705B2614.udd" 2037
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_BAE9C3594921DC2173B24FAE3BB9291__FE8FFFBFB59F0281574BE7ADA500EC45F64DEB20.udd" 2038
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1CD2E31C44E3E43F447309A928D77__F991768FB193DDAF734E6F0905A3EB445F38DF62.udd" 2039
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1CD2E31C44E3E43F447309A928D77__926E0A37CBF8F624B2D7A251EA86FFCAD235A0B2.udd" 2040
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/3/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___2DECB5B7BF9F50686F6F8ECAB17859C367B5883C.udd" 2041
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/5/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___0920799EC868140FDA2421C87984F635724DE862.udd" 2042
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/7/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___967AD0E6D8B694F3B8222F8BCA8F4DC6626257BA.udd" 2043
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/4/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___5C2E8A3FDD965915665B782438CA3ADC8F37A3BC.udd" 2044
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDFDB5244CD5E634FA75B39F22EEA__0D1C0D6F250483F6B6FECCBA641C623341E9337B.udd" 2045
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDFDB5244CD5E634FA75B39F22EEA__39525419ABF647AE0D984C20BFADA8EF3411B817.udd" 2046
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_4B02FA3047FCAF59D6EBC9B1DF88122E___8A275A1BE64A7C0287050BDD294485BF50F05F2D.udd" 2047
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_4B02FA3047FCAF59D6EBC9B1DF88122E___D41BD2D4F5309B861CC3884CED0BAF603C9A0CEF.udd" 2048
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDFDB5244CD5E634FA75B39F22EEA__FA5910013A532C487DCDAE3A793FF31F6A3A2FAC.udd" 2049
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDFDB5244CD5E634FA75B39F22EEA__FD7C20113AE677B0F8B7DF3CC4E9FD376FB3C49A.udd" 2050
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDFDB5244CD5E634FA75B39F22EEA__7E7FCB0E620B164BD0EA4924C48E024DAACF3D29.udd" 2051
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDFDB5244CD5E634FA75B39F22EEA__6FB5F88D211BD09E8BABD5B0EF80CC074C16AED6.udd" 2052
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_186DFB0B44C67147C0C7E2984729B__A0134BAD27882AECD36891D79D4671761412C156.udd" 2053
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_186DFB0B44C67147C0C7E2984729B__72C6408ACEBF8E6B7F8A8EADB92DEC9FA07DB487.udd" 2054
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_4B02FA3047FCAF59D6EBC9B1DF88122E___FEAF5D3A7D08E2B41E9C5D4FF748BC78BFFF94F1.udd" 2055
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_186DFB0B44C67147C0C7E2984729B__1CCA635378093D4697F39097616132DFD27EEF82.udd" 2056
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_186DFB0B44C67147C0C7E2984729B__DC538D28303D2A41C9238D8E3267F53CEF00353D.udd" 2057
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_186DFB0B44C67147C0C7E2984729B__0A39A1D0BCF797FA8485BA84ACC0A379722E3B12.udd" 2058
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_186DFB0B44C67147C0C7E2984729B__2DF8BFD4C331291C11DD5E247077508782B50476.udd" 2059
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_4B02FA3047FCAF59D6EBC9B1DF88122E___C6FD84B4CDFEE9B600C1ECBD31C5095255BBEF26.udd" 2060
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_4B02FA3047FCAF59D6EBC9B1DF88122E___D5C56FDEDD22BA1D213CCA18E6EE7E88BB5E8678.udd" 2061
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_4B02FA3047FCAF59D6EBC9B1DF88122E___EE01A199A8FB6414EBEA22D888A0033B2F1326B2.udd" 2062
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/7/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___BE9D221F3FC6B9181295A35C07259BC77CCB9AC1.udd" 2063
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/7/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___BB1A493299DD49077BAC72E4A30CD220EC5938CE.udd" 2064
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E16A738E4E906B78ECE36089AE3B9__1DB9A9879CDE8CBF47D2CD141FBD566E409075EE.udd" 2065
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E16A738E4E906B78ECE36089AE3B9__DAF71792BA3AF12EB5827C65F67888FF24E1318F.udd" 2066
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EB9139C44220AB284E220091E9764__286242C5F96A685F2931CC856D4883F92C87F4E1.udd" 2067
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EB9139C44220AB284E220091E9764__B170630342CC632D012BA8B37DDA0461444431C0.udd" 2068
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E16A738E4E906B78ECE36089AE3B9__C250CFA7F299677A6698092F991F22A0BCDD8988.udd" 2069
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EB9139C44220AB284E220091E9764__AB70567425F606E6BE137572A069B39FBB8B0801.udd" 2070
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E16A738E4E906B78ECE36089AE3B9__281AC3999CED427D164C039AD1BEB11B31B59611.udd" 2071
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E16A738E4E906B78ECE36089AE3B9__EC51817EB1D72E46D44491118E535E453A6D0AF0.udd" 2072
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EB9139C44220AB284E220091E9764__4ACF6E2E6E1EEAAA07C40DB4EA7027EC51FA0BCB.udd" 2073
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E16A738E4E906B78ECE36089AE3B9__0E2AC9EA6BCF0AF3EF97FB9914B67FB27B15A2AB.udd" 2074
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EB9139C44220AB284E220091E9764__3D573FBAF5FB439C1ADB4E9BBA237CA5E6E44211.udd" 2075
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_B763C08B41EEA24471CF0E87255F9__CC25CA1808C09ADC50DD8F90EB1AF30EA856E7FA.udd" 2076
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EB9139C44220AB284E220091E9764__1AB62B12CE174E88C17D27D7F5EE6CFCAFCAE6FD.udd" 2077
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_B763C08B41EEA24471CF0E87255F9__FB4DE2FCC95CF72AD026893435CED4E7F5AC5D10.udd" 2078
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_60F13A974D57BF0AAEC9BB8983642__2490400B5AA972FC91619D640DE39FE1EEE95BDA.udd" 2079
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_B763C08B41EEA24471CF0E87255F9__70FBB6654C76A1E42AC2413B3C4D479556B88FEC.udd" 2080
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_B763C08B41EEA24471CF0E87255F9__C613095796D741E616D1163B870FD0D0151608AA.udd" 2081
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_B763C08B41EEA24471CF0E87255F9__2C6D35FCBD2406D0A80FE96AB30FC7DE704E000C.udd" 2082
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_B763C08B41EEA24471CF0E87255F9__D153484D48E72DC86A8FE4BCC07B1E3316626002.udd" 2083
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/5/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___8468576346D9B2EAA6686677BD2DA7F35EE3ABC9.udd" 2084
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/1/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___1E9CA44EDB0D2C21ECD8A97C24FA4852E5A84A9E.udd" 2085
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1EE267F1451F4883086EC28EA83A9__A6BA1FFE841C372DE7103580638FDFAEF7B6282A.udd" 2086
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/8/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___37548FE6800CDFED9C038D09C3B511B9EBD500DC.udd" 2087
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/2/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___022537AB1040B91D685D21A55668D4DF06CB60E3.udd" 2088
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Maps/MainLevel.umap" 2089
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Maps/MainLevel_BuiltData.uasset" 2090
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/morning_hard_bird_wav_Cue.uasset" 2091
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/morning_hard_bird_wav.uasset" 2092
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/AlteredLUT.uasset" 2093
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/1/AUDIO_0005_0000_OGG_0001_BFB21A6843704DE5343B58A21B6375F9.udd" 2094
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_9D60C1854EB4BDE8567577AED316150D__1_0_0_0_2_13315_0.udd" 2095
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_309B97F94B6EFD8173C22B9FBD0897B1__1_0_0_0_2_13315_0.udd" 2096
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 2097
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 2098
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84FEE5EA48F3A693156149A4BBA6B__0D667B0DE7B6D4E98AD0D4C981F0299F5F4AD56B.udd" 2099
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84FEE5EA48F3A693156149A4BBA6B__CB8A7F075DB4AE672FAEE6CF42EFEA4EB6DDB6D7.udd" 2100
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C18CDF7747837F6C590CCE90E066A__625F88504976485B3AA134A8B894C05060DF6C1F.udd" 2101
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84FEE5EA48F3A693156149A4BBA6B__C046036B26586A627F29BA5A59F6AA5B2CC2EBC8.udd" 2102
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C18CDF7747837F6C590CCE90E066A__A25630FF36038E7E8F4BE2C1CC6980A672D12673.udd" 2103
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84FEE5EA48F3A693156149A4BBA6B__9BA1D1DCD5FEE9D1BF9A49F80BF090C127B93693.udd" 2104
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C18CDF7747837F6C590CCE90E066A__BF3AEAD3A13DF7E126C9A37DFDA8B9F574C70961.udd" 2105
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C18CDF7747837F6C590CCE90E066A__307E3B2448BD9A7BBF522A61FE54F7E5215979A5.udd" 2106
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C18CDF7747837F6C590CCE90E066A__56C83740A0D6A147578E8C0E0221A81454A02AFC.udd" 2107
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/1/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___A507470AE7487785286D2C4AD5B4000BCC307CA8.udd" 2108
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/3/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___713F59BE3B7D6BEF115C71F5D7CEEACF144231B7.udd" 2109
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0CACD0D54EEE385C932B90874C734__61273AB8BCD84FB1693D8F758B5EBDF0D9B26CD7.udd" 2110
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0CACD0D54EEE385C932B90874C734__737F5E17CB66D0D386BDD7052EDB418D5312C803.udd" 2111
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0CACD0D54EEE385C932B90874C734__9B380375A1EED5DFEB52035B0747C3BC4CFF178B.udd" 2112
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EF18317A4791FC0623A92088EF3E9__273563E722281223A0849007587D7B3D0D09FD94.udd" 2113
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0CACD0D54EEE385C932B90874C734__21234D95A48EF3746BFBEF13995CFDFDA3AFF416.udd" 2114
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EF18317A4791FC0623A92088EF3E9__70B9409D1C93C8B72EBECF0C086F16E4D92D3960.udd" 2115
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0CACD0D54EEE385C932B90874C734__D642BAB1C3695CEB72AAE9CBF900F2305C948E2D.udd" 2116
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0CACD0D54EEE385C932B90874C734__2DB503F67EA534F67233ED12FC83428B8F84B216.udd" 2117
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EF18317A4791FC0623A92088EF3E9__48B0D4331016CD273A6A18AFC4C31DD3A6744E1A.udd" 2118
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EF18317A4791FC0623A92088EF3E9__0433E473C358B0933050867B146A1FF95470B92E.udd" 2119
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EF18317A4791FC0623A92088EF3E9__B0CA40CE0A4E3643E5364182DA11C3DFE345E0F1.udd" 2120
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5D8999E641F25963329048BF538E3__632F972091CAB608245A4D1671039C3BAC3624C5.udd" 2121
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EF18317A4791FC0623A92088EF3E9__758760A42953CF8C3A9A84369AEE67F30FD1D713.udd" 2122
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5D8999E641F25963329048BF538E3__4D11A0316ED3CE6181FCD363BD76F806F66B87D6.udd" 2123
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5D8999E641F25963329048BF538E3__374E85B34BC7BBCBEE8F86AC9956C0788E37F38F.udd" 2124
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5D8999E641F25963329048BF538E3__C816F54F05C5B42E20A36FFA3B6A52C51F374D6B.udd" 2125
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5D8999E641F25963329048BF538E3__CECC13C75BF9F76349A5188B55022F0620AC5D4E.udd" 2126
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5D8999E641F25963329048BF538E3__1563871AA83FB871F44822C986E17598C0BA5961.udd" 2127
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_8EC1337746AE79994A4116AB94274__5D02D568E53825AB0723658D4C00863789972550.udd" 2128
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_2F232B274646B87D613E4FA70A64724D__94A8ACA50D705ED2865EBEB90299A52D8F495EF3.udd" 2129
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_8EC1337746AE79994A4116AB94274__A55F30D0C5C0F4E1716624A46A659BD1B43F95B9.udd" 2130
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_2F232B274646B87D613E4FA70A64724D__05D7FC8F2281B78A8A97C635CB0B6BC17621EDBC.udd" 2131
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_300AD9074A3352B4A2EC10ABCBB234D8_0__F695FCAFF87D85C1FAA1147B9B591579132825BF.udd" 2132
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_75468A884AE8DE8115DA94BE4F977__D1699B52694780B5096488D9176C590F3F2FAE14.udd" 2133
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_300AD9074A3352B4A2EC10ABCBB234D8_0__536BCDBA10E61A8550126A308C7E2FF9F6885A38.udd" 2134
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_75468A884AE8DE8115DA94BE4F977__991919D567BCEB648779740DA9B8877F6983DDCD.udd" 2135
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_1C950827441651B3B68D61BE13ECA84__545C85B513A81560CD40D81A9856BF328259D772.udd" 2136
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 2137
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 2138
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 2139
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 2140
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 2141
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 2142
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 2143
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 2144
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 2145
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 2146
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 2147
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 2148
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 2149
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 2150
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 2151
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 2152
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 2153
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 2154
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 2155
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 2156
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 2157
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 2158
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 2159
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 2160
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 2161
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Maps/RollingBPExampleMap.umap" 2162
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 2163
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 2164
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 2165
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 2166
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 2167
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 2168
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 2169
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 2170
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 2171
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/RollingGameMode.uasset" 2172
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset" 2173
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Rolling/Materials/GrayMaterial.uasset" 2174
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Rolling/Materials/BaseMaterial.uasset" 2175
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Rolling/Materials/GrayMetalMaterial.uasset" 2176
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Rolling/Materials/OrangeMetalMaterial.uasset" 2177
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Geometry/Meshes/1M_Cube.uasset" 2178
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Geometry/Meshes/CubeMaterial.uasset" 2179
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 2180
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Geometry/Meshes/TemplateFloor.uasset" 2181
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Maps/Level_GoodSky_Showcase.umap" 2182
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/UI/WB_GoodSky_Menu.uasset" 2183
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoPC.uasset" 2184
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoeHUD.uasset" 2185
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/RollingOverview.uasset" 2186
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Rolling/Meshes/BallMesh.uasset" 2187
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Rolling/Materials/M_Blue_Checker.uasset" 2188
-"../../../Engine/Content/EngineMaterials/Grid.uasset" 2189
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Rolling/Materials/PM_Ball.uasset" 2190
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/M_OilPaintingPostProc_Inst.uasset" 2191
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/M_OilPaintingPostProc.uasset" 2192
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/1/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___A12EC22A0C00D3B4E4B169F9AE0C4EE95237A9FB.udd" 2193
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/2/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___4AD836C36B73101E5286BEFB4113CC50557990F2.udd" 2194
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/InsideMouthTop.uasset" 2195
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/InsideMouthBottom.uasset" 2196
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_DDBE633045009F3CCD0F558FC9BE936__458CA52931B4EAFE4840E4B451C4CC9236F66830.udd" 2197
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/InsideCartoonHumanMouth.uasset" 2198
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_6605C02A45E6E88E36DCE7B29D41B83__01EB5A1A8A62578FEA9AFBD37D197F887F21629D.udd" 2199
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/GrippingHand_Skeleton.uasset" 2200
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_7CA805024F6E7D593F0DAC9E1B8BBBD__7DC978C8492E71EFB6CAC4668F4739FF0417D720.udd" 2201
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/GrippingHand.uasset" 2202
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/0/SKELETALMESH_62632E8FC541408082BCF5CDBF0F301A_4ACBCCB344E8313B42E86AA801B568B80000000000000000000000000000000000.udd" 2203
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Window.uasset" 2204
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/1/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__166EAA2F7D18393D9102E59E19ECE23FE62FA397.udd" 2205
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/0/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_A8497D4B404788728__AE260CCF5CB76CAC6CEC0C1AC1202B74979338F3.udd" 2206
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_A8497D4B404788728A0B3392A09A6D9__D41A2B64A430E2677CD6D7E873742BC2990CEC86.udd" 2207
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/RoomCube.uasset" 2208
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/TowerPieces/1M_TowerPieces.uasset" 2209
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/6/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__B1415B06E05BEE8D7BE509815F15288C985D03BD.udd" 2210
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/9/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_CFC8422F40C28D202__A8198346DD209BEC082CB73E221579593FEA8CF2.udd" 2211
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/4/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_CFC8422F40C28D20223BCC9BFDCC842__F5BE88FAA50F1B673FDFCC12F99565CC620D0AF3.udd" 2212
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/7/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___2A6D12E2DCFD8EBC087D67B0DC3BFAC7383C7914.udd" 2213
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/2/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___519B43470C972B5FAE00F613BA157F9CDB7FCF79.udd" 2214
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/lambert2.uasset" 2215
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/0/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___E8C6B0793186DE2887869A46877DF8DF0CD004AB.udd" 2216
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/6/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___10367D5D825EE47B2BE2AAFC39F8D6907BC8E2CF.udd" 2217
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Cube.uasset" 2218
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/1/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__181B00EF7979BD15607BCD6E4DBC05F75DD221AC.udd" 2219
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/5/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_AE4964C942CADF220__BE4EBD15551574A158D2F04B42C59DAF51006D6D.udd" 2220
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/2/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_AE4964C942CADF2203EB1F9ECC56ADB__EFB1F38B8FF44F5F6207BFD40BA3925332AD54AC.udd" 2221
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/Lava/M_Lava_Inst.uasset" 2222
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/Lava/M_Lava.uasset" 2223
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/Lava/LavaAO.uasset" 2224
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/Lava/LavaBaseColour.uasset" 2225
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/Lava/LavaEmissive.uasset" 2226
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/Lava/LavaHeight.uasset" 2227
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/Lava/LavaMetallic.uasset" 2228
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/Lava/LavaNormal.uasset" 2229
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/Lava/LavaRoughness.uasset" 2230
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/6/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___98219EC005A854B7815DD38352BB7108F87596ED.udd" 2231
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/2/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___0CD873FC19DE3064CAE2F4DB8A4B2050D1D0AE7C.udd" 2232
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_8BBD4CDD4116DC62E4C6FE946D2D2__4DBABE5F2C8787B28D9C02E34065BAAA7FFC329C.udd" 2233
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_FB36C22E429929BBDC6AFCBD63B77__43CCD07233F5F3B420BC5838C96F1B0387FFAD23.udd" 2234
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_8BBD4CDD4116DC62E4C6FE946D2D2__1344F33E78887DEEF752376326D7CF0B8510C934.udd" 2235
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_FB36C22E429929BBDC6AFCBD63B77__B15BE3B9F20EF0E387C4E7516C771D093274F1AA.udd" 2236
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_8BBD4CDD4116DC62E4C6FE946D2D2__C463DBC48CF61A032EC84FB6028DEF4F4A620ECF.udd" 2237
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_FB36C22E429929BBDC6AFCBD63B77__4646AA47A543522628EABB77DE3BEE2AE9AD58D7.udd" 2238
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_FB36C22E429929BBDC6AFCBD63B77__645B3E69154A7947164A45A9C2119ED4F3E2AF7C.udd" 2239
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_8BBD4CDD4116DC62E4C6FE946D2D2__ED16A06ED6AB81EB27C63638A00A0BAF733A6543.udd" 2240
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_FB36C22E429929BBDC6AFCBD63B77__6B2197DF9F260094FCADAB302ABC0A9A4F0F62F1.udd" 2241
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_8BBD4CDD4116DC62E4C6FE946D2D2__C7ACC1C6CE463AB5240A32F0872727DB1D2BF819.udd" 2242
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_AA789480435D6755ED86EE8966240__E9B2BA7BF587053453FB97D1A30F198A97D6A77B.udd" 2243
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_FBB0E99643171952E1C1909A6D9C8__D644B4FE55B66A24D97F67E7F0D4CB69CFD5F00D.udd" 2244
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_FBB0E99643171952E1C1909A6D9C8__421D03C35B18A7CE6117BEC04662F389DAD10259.udd" 2245
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_AA789480435D6755ED86EE8966240__E7F2BAAD3D66D40A60992B8AAAAABF7DB1456D58.udd" 2246
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_FBB0E99643171952E1C1909A6D9C8__32F013B879850C6E0231F676D6C372DEECC2D182.udd" 2247
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_AA789480435D6755ED86EE8966240__C7AB7675D217CB242D1E27B1A6913DACB038B764.udd" 2248
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_AA789480435D6755ED86EE8966240__43C3960A153042AB1C21B27ABE57B6ADDB8388E7.udd" 2249
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_FBB0E99643171952E1C1909A6D9C8__904043DE0BBC08DB706428D53AA0AE3043FE3179.udd" 2250
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_AA789480435D6755ED86EE8966240__EE9BE1FA977A4E08F58CAF000CCB0780943E0BE7.udd" 2251
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_FBB0E99643171952E1C1909A6D9C8__B1F83BA33980A0CFF450C40856386852A9470ABA.udd" 2252
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D4B8B5BE4E948E5D06DE1480A4DA7__0DE52A86A3D22C9FA4A2AA6FF2CCC4CC5A7E235D.udd" 2253
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_D72233674D1DB6471A103795A4087738___8CBF2C4B8C0EDC4C47A88E02F70D9AAE8BB35863.udd" 2254
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_D72233674D1DB6471A103795A4087738___C90E5B1E9F7FD1F6897445F5B197BB67209FE27F.udd" 2255
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D4B8B5BE4E948E5D06DE1480A4DA7__EF3B572432CF6435DF34F8E010441A68E9EF5405.udd" 2256
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D4B8B5BE4E948E5D06DE1480A4DA7__BF8B2525EABBF6192FA7A0588964EB802526C62E.udd" 2257
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_D72233674D1DB6471A103795A4087738___B57B1BE479DC31161FA251C525CEC56231A75616.udd" 2258
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D4B8B5BE4E948E5D06DE1480A4DA7__2431CD70B2F9A6619FE92F7AB86D2D3FB7E3A571.udd" 2259
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D4B8B5BE4E948E5D06DE1480A4DA7__D0F79332C0D19B3F9133B8E6981EC5704E3B5383.udd" 2260
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_D72233674D1DB6471A103795A4087738___60407183BA7223630780F21B13F28C6A88529EE2.udd" 2261
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1290CE1E4F72C3A5454C968FCE790__0A27F2999539C9A0D2B71436146E63EF26B2A02F.udd" 2262
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_D72233674D1DB6471A103795A4087738___85422A9FE8D9FC5B14B0E21CAEEDF4722DEB8082.udd" 2263
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1290CE1E4F72C3A5454C968FCE790__5CB13AD2E47DE86B0435BF0D61A5259148DB62B9.udd" 2264
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1290CE1E4F72C3A5454C968FCE790__80EC5F6D0A7C8C5F8991EFAF59EBBC5D060E69B2.udd" 2265
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1290CE1E4F72C3A5454C968FCE790__1969779EE2377AD6F09067BCDFF3536A5939418B.udd" 2266
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1290CE1E4F72C3A5454C968FCE790__7C86E3F55EFD3EC43840645DB71B75541E4221D6.udd" 2267
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/BurningBark/Burning_Bark_MAT.uasset" 2268
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/M_green.uasset" 2269
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/6/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___02F7824D4C6289D0056FD5DDA55F438329ECEBF4.udd" 2270
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/0/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___5D1B20748F30A46C06DABBF5A8C5E85C333406B3.udd" 2271
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/Light_Function/M_GoodSky_StormLightning_LightFunction.uasset" 2272
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/5/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___1F8860AE4BC541ED76F85B5895CC5AE3D5E2860B.udd" 2273
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/6/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___F0CD734B816AE16F362B0FE60BD3B3DF29402B9D.udd" 2274
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/Materials/M_UMG_LogoMaterial.uasset" 2275
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/4/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___E5A397CB48A06CA7A3DC0F3078DF8A48002084E8.udd" 2276
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/7/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___4FCD3A687D5E747C56707B4C0CD455A192BC30A1.udd" 2277
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_ObsticleParent.uasset" 2278
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_Lights.uasset" 2279
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/urban_dots_wav.uasset" 2280
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/2/AUDIO_0005_0000_OGG_0001_FC3020194ADE83ED365AD1A859706557.udd" 2281
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/th_wav.uasset" 2282
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/7/AUDIO_0005_0000_OGG_0001_362FD23B40B26F8E6C92529CBCAB1AA9.udd" 2283
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/th_semi_wav.uasset" 2284
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/4/AUDIO_0005_0000_OGG_0001_536433AA4C8A023995A97E95CD86CE99.udd" 2285
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/th_b_wav.uasset" 2286
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/1/AUDIO_0005_0000_OGG_0001_9353624B4A3E303A4EA4158F269EE127.udd" 2287
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/th3_wav.uasset" 2288
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/7/AUDIO_0005_0000_OGG_0001_C127161045BFD315E50584B70E32713D.udd" 2289
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/th2_wav.uasset" 2290
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/7/AUDIO_0005_0000_OGG_0001_39C294F94E374F3E696D1F9B91D04834.udd" 2291
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/rain_wav.uasset" 2292
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/2/AUDIO_0005_0000_OGG_0001_4559888645FA278801DA7CA2A56794E6.udd" 2293
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/rain_th_seamless_wav.uasset" 2294
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/5/AUDIO_0005_0000_OGG_0001_DE62A8F54A7A0000B8F9F6A786CA7848.udd" 2295
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/rain_hard_wav.uasset" 2296
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/9/AUDIO_0005_0000_OGG_0001_C7FE8792422ACB7434BEF8A84C0BB12E.udd" 2297
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/rain5_wav.uasset" 2298
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/8/AUDIO_0005_0000_OGG_0001_657DD2FC4C67EC4E7B769181498099B3.udd" 2299
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/rain4_wav.uasset" 2300
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/9/AUDIO_0005_0000_OGG_0001_65F7924845525E23759288930C998651.udd" 2301
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/rain3_wav.uasset" 2302
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/1/AUDIO_0005_0000_OGG_0001_148C6ED74E55427BF422C289A3807615.udd" 2303
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/rain2_wav.uasset" 2304
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/0/AUDIO_0005_0000_OGG_0001_1786DDCB480079EBBDB142B4373C184F.udd" 2305
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/near_surface_begin_strong_wav.uasset" 2306
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/9/AUDIO_0005_0000_OGG_0001_A0D901494C9187A8358B97A4DBD2003F.udd" 2307
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/morning_soft_bird_wav.uasset" 2308
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/2/AUDIO_0005_0000_OGG_0001_3830BF97416A309D004EBAA039E60BEF.udd" 2309
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 2310
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/building_wav.uasset" 2311
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/4/AUDIO_0005_0000_OGG_0001_AD6BB93246160DFBB8FBE88D74C1B5CD.udd" 2312
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/building7_wav.uasset" 2313
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/7/AUDIO_0005_0000_OGG_0001_7F8B5BD54A11703DB9EEDAAC1564BA89.udd" 2314
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/building6longthunder_wav.uasset" 2315
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/8/AUDIO_0005_0000_OGG_0001_856EEDB44E5CAFC566A33B96ADC5C66F.udd" 2316
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/building5_wav.uasset" 2317
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/8/AUDIO_0005_0000_OGG_0001_6234596648A973FBD015C9BFB7A628B3.udd" 2318
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/building4thunder_wav.uasset" 2319
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/2/AUDIO_0005_0000_OGG_0001_977F99074F9BDCD912853E86BB6E33BB.udd" 2320
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/building3long_wav.uasset" 2321
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/0/AUDIO_0005_0000_OGG_0001_09265F10478E547D65A2BCA8E7194D49.udd" 2322
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/building2_wav.uasset" 2323
-"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/2/AUDIO_0005_0000_OGG_0001_FD4D68D5424173D15C2A1BA34F0FF114.udd" 2324
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/urban_dots_wav_Cue.uasset" 2325
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/th_semi_wav_Cue.uasset" 2326
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/th3_wav_Cue.uasset" 2327
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/rain_wav_Cue.uasset" 2328
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/rain_hard_wav_Cue.uasset" 2329
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/rain4_wav_Cue.uasset" 2330
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/rain2_wav_Cue.uasset" 2331
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/morning_soft_bird_wav_Cue.uasset" 2332
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/building_wav_Cue.uasset" 2333
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/building6longthunder_wav_Cue.uasset" 2334
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/building4thunder_wav_Cue.uasset" 2335
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/building2_wav_Cue.uasset" 2336
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/th_wav_Cue.uasset" 2337
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/th2_wav_Cue.uasset" 2338
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/rain5_wav_Cue.uasset" 2339
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/near_surface_begin_strong_wav_Cue.uasset" 2340
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/building7_wav_Cue.uasset" 2341
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/building3long_wav_Cue.uasset" 2342
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/th_b_wav_Cue.uasset" 2343
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/rain3_wav_Cue.uasset" 2344
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/building5_wav_Cue.uasset" 2345
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/rain_th_seamless_wav_Cue.uasset" 2346
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1693
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1694
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1695
+"../../../Engine/Content/BasicShapes/Cone.uasset" 1696
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1697
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1698
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1699
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Intermediate/AssetRegistryCache/9456d10d.bin" 1700
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 1701
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1702
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1703
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1704
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoeGameMode.uasset" 1705
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoeGameState.uasset" 1706
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1707
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_Platform.uasset" 1708
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_EndOfLevel.uasset" 1709
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/BP_GameJamKit_HUD_Interface.uasset" 1710
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PhysicsBallBP.uasset" 1711
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/BP_GameJamKit_InGame_HUD.uasset" 1712
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/UMG_GameJam_LoadingScreen_Widget.uasset" 1713
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/PotatoeEatersPic.uasset" 1714
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/UMG_GameJam_GameOver_Widget.uasset" 1715
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/bASE/UMG_GameJam_Button_Base.uasset" 1716
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/InGameWidget.uasset" 1717
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Floor.uasset" 1718
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/M_WoodPlanks_Inst.uasset" 1719
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/M_WoodPlanks.uasset" 1720
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uasset" 1721
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 1722
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 1723
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 1724
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 1725
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 1726
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 1727
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 1728
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_Albedo.uasset" 1729
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_AO.uasset" 1730
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_Displacement.uasset" 1731
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_Normal.uasset" 1732
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_Roughness.uasset" 1733
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table.uasset" 1734
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Bottom.uasset" 1735
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Bottom_BaseColor.uasset" 1736
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Bottom_Normal.uasset" 1737
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Bottom_OcclusionRoughnessMetallic.uasset" 1738
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Top.uasset" 1739
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Top_BaseColor.uasset" 1740
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Top_Normal.uasset" 1741
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Top_OcclusionRoughnessMetallic.uasset" 1742
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Wall.uasset" 1743
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/M_WoodPlanks_InstWall.uasset" 1744
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Glass_DM.uasset" 1745
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/M_Glass.uasset" 1746
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/lambert1.uasset" 1747
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Plate_lambert1_BaseColor.uasset" 1748
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Plate_lambert1_Normal.uasset" 1749
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Plate_lambert1_OcclusionRoughnessMetallic.uasset" 1750
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Glass.uasset" 1751
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/M_MudAndSticks_Inst.uasset" 1752
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/M_MudAndSticks.uasset" 1753
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_Albedo.uasset" 1754
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_AO.uasset" 1755
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_Displacement.uasset" 1756
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_Normal.uasset" 1757
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_Roughness.uasset" 1758
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/WindowWithWall.uasset" 1759
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/Bp_ForkTrap.uasset" 1760
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Potatoe.uasset" 1761
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/M_Potatoe.uasset" 1762
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Potatoe_M_Potatoe_BaseColor.uasset" 1763
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Potatoe_M_Potatoe_Normal.uasset" 1764
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Potatoe_M_Potatoe_OcclusionRoughnessMetallic.uasset" 1765
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Fork.uasset" 1766
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/WorldGridMaterial.uasset" 1767
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Fork_WorldGridMaterial_BaseColor.uasset" 1768
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Fork_WorldGridMaterial_Normal.uasset" 1769
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Fork_WorldGridMaterial_OcclusionRoughnessMetallic.uasset" 1770
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/UMG_GameJam_PauseMenu_Widget.uasset" 1771
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/MouthHUD.uasset" 1772
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/InsideMouth.uasset" 1773
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_HandAndFork.uasset" 1774
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/HandBlueprintMask/M_HandMask.uasset" 1775
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 1776
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 1777
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/Material_004.uasset" 1778
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/HAND_C.uasset" 1779
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/HAND_N_.uasset" 1780
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/HAND_S.uasset" 1781
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/Hand_Gripping.uasset" 1782
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_Plate.uasset" 1783
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Plate.uasset" 1784
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_SwingingLight.uasset" 1785
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1786
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/KillBox.uasset" 1787
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoGameInstance.uasset" 1788
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/1/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__D0F3F363A76391DF197AB15CA1D4418857DA5D93.udd" 1789
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/2/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_8A307D6E40223E429__47E7477404267C1CC946FF7A880D2AE7B97D9C78.udd" 1790
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/8/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_8A307D6E40223E4291B2D4A9717FD8C__0E98F8C230ED1925B1704484A7F92E4AD86A31F6.udd" 1791
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/2/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__0B6BCBCD35AE18F4255E6A860F4CF5FB2BFBDF18.udd" 1792
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/6/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_038B4CCF4B0F8DFCE__D0A84303BA6250974793FB0969647E36394A2E0C.udd" 1793
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/6/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_038B4CCF4B0F8DFCE840F48209318A8__717675492ADE25F05BF7682C90C315A110C188D1.udd" 1794
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/4/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__62EA6E2C8E32FFDD7CEDC7AB180E416F89F69AA0.udd" 1795
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/1/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_14FA68EA4C9362A4D__4F73C33870526814F51B09936177973C4F1D0BBC.udd" 1796
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/8/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__44F05EF1943FC5B5B802782FE74602452B7C69FD.udd" 1797
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/5/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_267C9166430AC4279__2C178A2900D87092669D487823B82DA94C7FEEBD.udd" 1798
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/9/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__83E60139D7A8674B5BBEFADAEAE720C834BF1124.udd" 1799
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/3/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_6BA7295F4F45BFD3E__285C898371EC86A935AEE697AD81412E06B09C94.udd" 1800
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/7/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__E432DE615F4CB65FE7FDFECA509FEEB63398C66C.udd" 1801
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/7/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_1CBBF47C4F80A73B7__777D4C3F79A9895EC2000C60F5CB3CD0CD55BDFD.udd" 1802
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/7/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__54F4F02D5652F4EF4F80619C4C4B5883F0E0A823.udd" 1803
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/5/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_AB263ABE497BD674D__ADA7B3BB8326716C3262AC87E225A2DFE7A069AA.udd" 1804
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_AB263ABE497BD674D38F98A254F729A__5F5C8D52839390D97A2505C3E8D7BA40735F067B.udd" 1805
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/6/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_14FA68EA4C9362A4DF89E7B35116E3D__7A0F8168CC7331C728E2554BA54A460837B9FE03.udd" 1806
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_267C9166430AC4279FC1A8A97A1B6D7__6B213707BBCB618DB6A139B98953BBA82D1A7718.udd" 1807
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/7/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__386B2FF27115478275902E7EBFFB485BD56BF665.udd" 1808
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/3/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_96C212614A5C983EF__461CA0133E33A15983417B9CC2ED2863192BD2DD.udd" 1809
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_96C212614A5C983EFEE87D826BCB961__C6A636EECEF7698B7EDE27C127B49420B79411D7.udd" 1810
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/7/SKELETALMESH_62632E8FC541408082BCF5CDBF0F301A_CF29FEA5480DB5D75B8F23BA651E13180000000000000000000000000000000000.udd" 1811
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/2/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_1CBBF47C4F80A73B7973229CAC58B0F__45C9FA985832176649E9DDF4E49A0BA99C580305.udd" 1812
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_6BA7295F4F45BFD3E21B19994A85CCB__5C203AE4C283F106C99DF11DCBEE26B70B708701.udd" 1813
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/5/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__C5607DBE6B4A94650994C4D3FABFA7ADEDA2B2DC.udd" 1814
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/1/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_ADB9629F4EC1D2FBD__F965101C12ABFC903C50BEB985B8BA353545C4D5.udd" 1815
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_ADB9629F4EC1D2FBD51F01BB0633B6C__E03A7D3E8A9BAE4FB3B39E971C12DDD57B886873.udd" 1816
+"../../../Engine/Content/Maps/Entry.umap" 1817
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1818
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_2007817742127577A37A32A06BF0AE4__4535493788245B51D073CA05BEEE2A67C51DAFCB.udd" 1819
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/6/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___9007612A6CD461E3CCD5C9175D258C5AFAE0DFA9.udd" 1820
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/2/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___2939A2042C163012604740E1F01FE23856E87AAC.udd" 1821
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/2/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___05C07B2F769BBE2F179CC8350F4AD459AAEC6942.udd" 1822
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/6/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___CDB4E80398626C8F3D0357E319758DC8199EA0E0.udd" 1823
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Maps/MainMenu.umap" 1824
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/MainMenuGM.uasset" 1825
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/BP_GameJamKit_MainMenu_HUD.uasset" 1826
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/UMG_GameJam_MainMenu_Widget.uasset" 1827
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Blueprint/BP_GoodSky.uasset" 1828
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_Stars.uasset" 1829
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_AllOverlayColor.uasset" 1830
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_BaseCloudColor.uasset" 1831
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_DomeColor.uasset" 1832
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_horizon_Color.uasset" 1833
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection.uasset" 1834
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/DataTable/DataTable_GoodSky.uasset" 1835
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Structure/Structure_GoodSky.uasset" 1836
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/M_GoodSky_Base.uasset" 1837
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 1838
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_SkyDomeAlpha.uasset" 1839
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Time.uasset" 1840
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_A.uasset" 1841
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_B.uasset" 1842
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_F.uasset" 1843
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_sphere.uasset" 1844
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/M_GoodSky_Moon.uasset" 1845
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsAroundPoint.uasset" 1846
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_Moon.uasset" 1847
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/M_GoodSky_Storm.uasset" 1848
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uasset" 1849
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 1850
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 1851
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 1852
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 1853
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 1854
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 1855
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 1856
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 1857
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 1858
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_LightningFlick.uasset" 1859
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_noise_smooth.uasset" 1860
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_Lightning.uasset" 1861
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/M_GoodSky_Sun_Stars.uasset" 1862
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_Stars.uasset" 1863
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.uasset" 1864
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.uasset" 1865
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.uasset" 1866
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.uasset" 1867
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.uasset" 1868
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Mesh/SM_GoodSky_Hemisphere.uasset" 1869
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Mesh/SM_GoodSky_Sphere.uasset" 1870
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_C.uasset" 1871
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_D.uasset" 1872
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_E.uasset" 1873
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/0/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__3E80BF68BE305805A8E3C860D5B9F921ACED39DD.udd" 1874
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/1/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_C03D762942429DB6B__4CD82406C17E7F9A49564C1C7B5EC666B72E1460.udd" 1875
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_C03D762942429DB6BD564B991EEE211__5DFF1D036A72E56BB4BCF34CF278FCFD138285F3.udd" 1876
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/7/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__8F3C9DFDC3BCA21F2BE47A73AB6B05DEA4ADEFFC.udd" 1877
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/7/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_8D0DE51D4FA334590__BF4D8A3E6571979EFF9235A10E763CE83AA8E9B3.udd" 1878
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_8D0DE51D4FA334590B590B8BAA14BE6__E3CD22749E57E0152DE93E561F55B1A25399681D.udd" 1879
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 1880
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_CC929EC441189E2874F210A429849__86BAB5059591C0FC1AA2F79822D933DF273FE1C1.udd" 1881
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_CC929EC441189E2874F210A429849__5DF84F9E33DFDEE79DE525A423CBF461BB4900D0.udd" 1882
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D9B378C45F18B6B8D869FAAB511F__2311D3DD7CC7A9993CE13C0AAEC2393AAB1B6BC9.udd" 1883
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D9B378C45F18B6B8D869FAAB511F__122B9A9213832F92C592A992C2D3A0FEFA3120A2.udd" 1884
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_CC929EC441189E2874F210A429849__0B2F2261BC7E179BA3A8DD6D13774740B6534847.udd" 1885
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_CC929EC441189E2874F210A429849__B7A2A0B95C7AE36E4794B23F344BBBCE41E479E4.udd" 1886
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_CC929EC441189E2874F210A429849__EA32C6EA7095D3EBF83622EE11B30CBFE9ECD7A3.udd" 1887
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_CC929EC441189E2874F210A429849__71248106A70CDAE326ADADF529885D428B272B89.udd" 1888
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/5/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___9D563DC13C8C354FA502A6FEF8FB6E6CF92A6FE5.udd" 1889
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5DFB7E584B7CECBD5D79D89833E22__DC00C278B70DBB2F0780DE1C5E62E84F0F00FD00.udd" 1890
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5DFB7E584B7CECBD5D79D89833E22__4CE95698F3479E8B19B06CAAB65C5A481625A1A8.udd" 1891
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5DFB7E584B7CECBD5D79D89833E22__3F043B13543A1555CA234F69CE0C41A4CCD7678A.udd" 1892
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5DFB7E584B7CECBD5D79D89833E22__B59D3C2EE9C457A0AD1AA9A34896F1DBFB29CFF5.udd" 1893
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5DFB7E584B7CECBD5D79D89833E22__2BBA19F1B51D898E9E49F0958ADF3ACFC7F0E816.udd" 1894
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5DFB7E584B7CECBD5D79D89833E22__F2E408E692CDCDEF711731EDBC7906ED1F91D850.udd" 1895
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1EE71F254A0B8590612C0F84321DD274___941D4FD33AB2DDB59AD4067359F1BD16D9BD0283.udd" 1896
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1EE71F254A0B8590612C0F84321DD274___AE6C4370D731AB129D491551C748F6811439086F.udd" 1897
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/6/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___6FFE757B019EA1B9B197DA4A445615E14F4399A7.udd" 1898
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D9B378C45F18B6B8D869FAAB511F__EDDBC1922FAF3B9B32248E8546A2873B4487A8DE.udd" 1899
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D9B378C45F18B6B8D869FAAB511F__3E923C6B87CF4503D8B451C56F802EA7109D2922.udd" 1900
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D9B378C45F18B6B8D869FAAB511F__8BEBCFCDC64E5A434E9CABFDECBB15DD259D896B.udd" 1901
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D9B378C45F18B6B8D869FAAB511F__94947974923EC5377D56030820ED4D94DBF71879.udd" 1902
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7B03AEA84F33490A28AAB580CD1D3__80E65C972D59542DAEB9EFECADFCFC608675190A.udd" 1903
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7B03AEA84F33490A28AAB580CD1D3__63ECDF86C7A634B1868C43F3AF9699EDC90028F9.udd" 1904
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1EE71F254A0B8590612C0F84321DD274___83490830706DD2A4DA25E80B7FB61707513DDC77.udd" 1905
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1EE71F254A0B8590612C0F84321DD274___E171DAA24083DFA5E5A33FBC707707D03F4DB7E9.udd" 1906
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7B03AEA84F33490A28AAB580CD1D3__94B2F5A321DBF5EB308683EB9F9503DFBC423937.udd" 1907
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1EE71F254A0B8590612C0F84321DD274___CAD2C61F17D5F3273C00FF8B0F04ABB3C858F452.udd" 1908
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1EE71F254A0B8590612C0F84321DD274___0B2A62A7602E064D98D108C7C43236C7E29D5117.udd" 1909
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7B03AEA84F33490A28AAB580CD1D3__64253DFC7DE260E9A56AF5001227956305159DDD.udd" 1910
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_72854575429848B6A829CDAABDC0B__00EA83EF1C3350428D290A92B1A09DD93F466DE8.udd" 1911
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_72854575429848B6A829CDAABDC0B__3E1D8B23FE3EB2CBFE86A0820E9DF47AC3A1C1BB.udd" 1912
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7B03AEA84F33490A28AAB580CD1D3__2617A6FC27BBAA093C675D1ABA84699C1A967328.udd" 1913
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7B03AEA84F33490A28AAB580CD1D3__85DC9FFA7EEDE7FDA8ED3BE9DAD5370C4B0A2D94.udd" 1914
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1AB28317498E6669C98A14A3F25837D9___D8724027609A937CA199FDAAC97F57390B59A4A0.udd" 1915
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1AB28317498E6669C98A14A3F25837D9___2FBB9597C0DDA0B3D29B8E2CC54ED25BA57F85E0.udd" 1916
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_72854575429848B6A829CDAABDC0B__F00618AC16832B7F01507715A09E6CBDCA3CB975.udd" 1917
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_72854575429848B6A829CDAABDC0B__D8E7E81B895E74DBA320E5C1DE9A44C497655973.udd" 1918
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_72854575429848B6A829CDAABDC0B__2110811245E5EB883E3DD342F14150677256D9CF.udd" 1919
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4DF7D0124B1DAFAC69CFDE83836CE__4571D31F861D0CE06A030D7BECFD9E4E3E8064DD.udd" 1920
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4DF7D0124B1DAFAC69CFDE83836CE__C214D4B772302A309D38B92158BE1BB06CA85E20.udd" 1921
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1AB28317498E6669C98A14A3F25837D9___F8EF953811CEA9CCED22DC5019F432D005054129.udd" 1922
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/5/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___7247D95F782A2FD87CCA7C3942E459EE7EA8089F.udd" 1923
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4DF7D0124B1DAFAC69CFDE83836CE__77A34A9C845755857C45DA76331B07139D681B45.udd" 1924
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1AB28317498E6669C98A14A3F25837D9___7DE8E4C24E0AAC70A865219215EFB64F7CA1B7B8.udd" 1925
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4DF7D0124B1DAFAC69CFDE83836CE__1B1EA8E1E504CB877436971BACCDCF7660B17CBB.udd" 1926
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_1AB28317498E6669C98A14A3F25837D9___1919005338F574D34F1406514931F076D1312F3A.udd" 1927
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4DF7D0124B1DAFAC69CFDE83836CE__BE5CE14F62888BD8ACDA4A92E9D3C31468319705.udd" 1928
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/8/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___41996D3C27CBA8EAECFE28111ED14CA8675D2FA8.udd" 1929
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6ECE52E540C8F5A6604E3BBD27FDF__74B250E1D35DA429057C6DEC1B1A79B6CAC713C8.udd" 1930
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6ECE52E540C8F5A6604E3BBD27FDF__1E9060FB9CE34161D42970581753AF85FB915901.udd" 1931
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_72AC0C53465688072FB734A4E5EB7F13___0E271CEF83163C76E45A6AC6DEB617CF5D51CBC6.udd" 1932
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_72AC0C53465688072FB734A4E5EB7F13___46DC717AC0721A311AB02FCAD4EE59B0204BBBB1.udd" 1933
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6ECE52E540C8F5A6604E3BBD27FDF__6DDAEFEF0712119B4DB30F39018D839967B6BA76.udd" 1934
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6ECE52E540C8F5A6604E3BBD27FDF__86215CEBD59F115EE1CA9A9B153E37E40BBC87E0.udd" 1935
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6ECE52E540C8F5A6604E3BBD27FDF__71F5692370F8FECAC17E869502B7C418896ADB2C.udd" 1936
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_72AC0C53465688072FB734A4E5EB7F13___57E37DB32B94FCCFFC3B56CAF171DD82779CF508.udd" 1937
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_72AC0C53465688072FB734A4E5EB7F13___FC56637883A4A42D3E55B2484D90A5E7DEAE1EA9.udd" 1938
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_72AC0C53465688072FB734A4E5EB7F13___71C5C9F6EB0E2B9EBD145BD5343A841A4D9BBF2C.udd" 1939
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D9D790544F70000B50C98BA94E82D__AF44D08F118E0EEF704146E6F2469F36626669CA.udd" 1940
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D9D790544F70000B50C98BA94E82D__790A0C867658BB48AA6BFCD5C942BA69F46B9FEF.udd" 1941
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D9D790544F70000B50C98BA94E82D__D2F6A73B5D3B01820CD55A408B29AB5124DA5FE5.udd" 1942
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D9D790544F70000B50C98BA94E82D__C14B8397C904F29358B92052C4C84FB3C60776C1.udd" 1943
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D9D790544F70000B50C98BA94E82D__8B09C83938D18FC8F50A659E2DC05C1B5CB67A2B.udd" 1944
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/9/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___C6C9EE678FCB905D2BAF0672169D90AD7DD8223B.udd" 1945
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/4/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___E26E7F23887F03F4AB90152A041ADC1B1021C4F8.udd" 1946
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/1/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___179D2E4BAB0B56AA9F7C2FA73A1EB4FBBF5A0148.udd" 1947
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/4/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___B14A2CC4748B4C1B0FAF6CAEDF5D0EED13554AE8.udd" 1948
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_120253E4446E9756D1AEFD831505F__C2160FE24CF7D931DBF795FEBF97E8678C924351.udd" 1949
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_120253E4446E9756D1AEFD831505F__4BB6CCC85D42B788602A07C5D27CA18EB73AF60F.udd" 1950
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_120253E4446E9756D1AEFD831505F__47FE19D784ED91B30C420FB071C1BE4EB053086F.udd" 1951
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_120253E4446E9756D1AEFD831505F__57C0B89F34023B9D00C05B4405C4A8F715222D9A.udd" 1952
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_120253E4446E9756D1AEFD831505F__58098E3240EA6EA0122B03905B6222AD4370E833.udd" 1953
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_65B54A774B0CC6C32124069151A3BF0B___C16D570EB00CEA14475976F378A4DF719BCA0FDE.udd" 1954
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_65B54A774B0CC6C32124069151A3BF0B___D726281D78BF8EB60FA14649F3EBA50A6F9665B1.udd" 1955
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_65B54A774B0CC6C32124069151A3BF0B___3018A09913071ED13BF611E5F85EFFAF8706F5BC.udd" 1956
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_65B54A774B0CC6C32124069151A3BF0B___84CFDB51C9392B0B7F7D358B69402B0781B01075.udd" 1957
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_65B54A774B0CC6C32124069151A3BF0B___AF4DC7D20E530584B5FB9E195BA81D482F95C8F8.udd" 1958
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_935F2AC442EAC9CBAF7947AE7A8F3__CAF24C0028A46440D10D7C14D6B09C9FF18185AA.udd" 1959
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_935F2AC442EAC9CBAF7947AE7A8F3__BC91C0AA837624190BE1B73BA533A47B4E7E2EFD.udd" 1960
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_935F2AC442EAC9CBAF7947AE7A8F3__CBF6476DB4372F9D47B58CCCFE30A9986AA53516.udd" 1961
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_935F2AC442EAC9CBAF7947AE7A8F3__7A8FB601D31B10DFC4EC3AE74939701951A12653.udd" 1962
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_935F2AC442EAC9CBAF7947AE7A8F3__3DB3FFDF9F54C3C620A12A3E8E17159B7CE53669.udd" 1963
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/4/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___EE0C20BCCF00A132D83D178437BE37708507B496.udd" 1964
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/3/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___F51096D5C6DABE5ADE3E7272C1C7D94AFF50F99D.udd" 1965
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/0/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___00A33C1BCDFABBA8959ECE8A2546F253EBB3581D.udd" 1966
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/8/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___50D08505BF9957D0CEB95DC5EEE6D1CCFB453AA5.udd" 1967
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84D6BA074357A984872FD3A8DC865__3D1CB7E12647F09F667D6D7CBF5991347F2C4A3B.udd" 1968
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84D6BA074357A984872FD3A8DC865__B404204C70C711A1DCE9C085634F809E8B40197C.udd" 1969
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5750674448C7FBA7E9E9FFA290FBB__D37CC432B3B04A1F2F652310BE186261E9DB1FF3.udd" 1970
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5750674448C7FBA7E9E9FFA290FBB__7C1129BA4B53732E67F8AB085F67E0A5A03C104F.udd" 1971
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84D6BA074357A984872FD3A8DC865__B6B105AEA8B23FE535DB29C4CBF582EAE234968E.udd" 1972
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5750674448C7FBA7E9E9FFA290FBB__D26A2F1979A486ABF4084ED3EFCDD411AC55AE17.udd" 1973
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84D6BA074357A984872FD3A8DC865__FB2C112B73D26F5469214DFCB27478CAF7466591.udd" 1974
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84D6BA074357A984872FD3A8DC865__AC47609EC44FCF34B35E1539E8FBB7467C8B6D95.udd" 1975
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5750674448C7FBA7E9E9FFA290FBB__59B555CB5CEE5E2DE9A334078FE22D189A2B49C5.udd" 1976
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84D6BA074357A984872FD3A8DC865__9BCC93EF00B3EB669753037EE541276017975BE3.udd" 1977
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5750674448C7FBA7E9E9FFA290FBB__9638284FACACFA0F41915BAC3E922D47B023E0B0.udd" 1978
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5750674448C7FBA7E9E9FFA290FBB__67AB5771C80BC43A1552AFDE9C0AF89C780EC278.udd" 1979
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6946D4914ABB4244DBE3BE97EF1F8__3E438E57F9A5999148B03D3D408C6866FE636FEB.udd" 1980
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6946D4914ABB4244DBE3BE97EF1F8__B85D488FF1309DC5700A7FBB78F9CC57E8F0EBDC.udd" 1981
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6946D4914ABB4244DBE3BE97EF1F8__ABD93811BD09E8FDE6A663A65DFD0817C83FAB61.udd" 1982
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_2973EED348CAAE34FED07EBD214971BC___AA79E24BDA6507816C868E2E8CB6E96895B6CD60.udd" 1983
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_2973EED348CAAE34FED07EBD214971BC___E3A7535EF12F780B951B01CD69927578CA4383E9.udd" 1984
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6946D4914ABB4244DBE3BE97EF1F8__E65B9ACAB3514BA309DD068B36767042861603AA.udd" 1985
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6946D4914ABB4244DBE3BE97EF1F8__E5002DD56A2EB515AA2BD4622F9027256696757F.udd" 1986
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_6946D4914ABB4244DBE3BE97EF1F8__EE20A4FF67B6D27996681E92291B006EBDB01864.udd" 1987
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0C6F8850425CE82F83F1D4AE173C2__995A86F61DA9F27B4E630DE985DCE8717D7413A3.udd" 1988
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0C6F8850425CE82F83F1D4AE173C2__00EEED04526094FA94A7FA3C749FB7DF283D371B.udd" 1989
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0C6F8850425CE82F83F1D4AE173C2__9495F945DD20581F45B2DB0CF9F3AD247575A160.udd" 1990
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_2973EED348CAAE34FED07EBD214971BC___3D0A46E0674DAD5EC92C92EC444F052DB6113E37.udd" 1991
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0C6F8850425CE82F83F1D4AE173C2__46A7771569193C3AB60F262511867A8FE7A42B3E.udd" 1992
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0C6F8850425CE82F83F1D4AE173C2__F0948085FFE798176DE9BA2F7C3D6C06A3ADDC5C.udd" 1993
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0C6F8850425CE82F83F1D4AE173C2__6C2429D4EEA312A893471F1C62377DAB9859D2EC.udd" 1994
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/8/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___4B1CD50C187092A5C190D6CEC06B0D7377A5D093.udd" 1995
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_2973EED348CAAE34FED07EBD214971BC___3C11CBB8D39968494DE9FFC78710205DF24F1FE4.udd" 1996
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_2973EED348CAAE34FED07EBD214971BC___F410549AA70B9C68CFA36D0DC33212C172F6E681.udd" 1997
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_2973EED348CAAE34FED07EBD214971BC___07FF3C1DCA6AA49325B34AABF391D06335E27903.udd" 1998
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/8/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___0E8DB89BEB87B9A29CF495D18EDCE4ABDCA51B5D.udd" 1999
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_68BEFFD641FBAA8B1D72709679ECA__20E08341AF764288A7161C5F6DECDB3E613B2980.udd" 2000
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_68BEFFD641FBAA8B1D72709679ECA__D098D33A15F001BACABD5D4FD19A3325A5E1F34D.udd" 2001
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_EDEEBABD463ACE9AC920D08893D13B8D___23420342A12B30599262B69369136C8B60998CF3.udd" 2002
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_68BEFFD641FBAA8B1D72709679ECA__C51DE1CD19CC48C09F09E8B20363A96A81378514.udd" 2003
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_EDEEBABD463ACE9AC920D08893D13B8D___1A64C3941D5A7517E1B8A85BC7837CF3CE1E8442.udd" 2004
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_68BEFFD641FBAA8B1D72709679ECA__DB954A676B0A9A1E5E7568E366DB17C95A9B3A92.udd" 2005
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_68BEFFD641FBAA8B1D72709679ECA__22CCC6153719C4958DDA899C08495AC059FB88EA.udd" 2006
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_EDEEBABD463ACE9AC920D08893D13B8D___1745CF8EF47FEE00B1484C21D56930D0327692C3.udd" 2007
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_EDEEBABD463ACE9AC920D08893D13B8D___6CC0B70FD89B3681FDAB178953B68275536DCE42.udd" 2008
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_EDEEBABD463ACE9AC920D08893D13B8D___F49F55582A2DC28EC2C456B6303464C4F40C7807.udd" 2009
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_ABE8BB334AA8F46DDCD6D3BD36120__20E9500653BA0B063D2C753D389775D91EBCF70C.udd" 2010
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_ABE8BB334AA8F46DDCD6D3BD36120__2D971ECACC15B0D4CCDF5F738BC0DC1E2668CAFB.udd" 2011
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_ABE8BB334AA8F46DDCD6D3BD36120__E2FAB470143CC5F0CD9857B8C82F30A14BCEE60E.udd" 2012
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_ABE8BB334AA8F46DDCD6D3BD36120__A049EE88CA258F628564F5CA527C386F144EDAE6.udd" 2013
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_ABE8BB334AA8F46DDCD6D3BD36120__93D7D62B321936E17F1F34D2F6FE8D74CC332772.udd" 2014
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/5/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___C8AABD4E025E20312F5B435AFD3F4119EF1A8AB3.udd" 2015
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/7/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___5726495F2B657A1BD6572462526D5A6799E63E6B.udd" 2016
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3217B8644B40CA6267367C82A8B4C__9312CE58DBF4FD1A7323D272D57B822560A0F40C.udd" 2017
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3217B8644B40CA6267367C82A8B4C__FACBEA34E31825DB0D057D0A669570D9FEF229C5.udd" 2018
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3217B8644B40CA6267367C82A8B4C__99A53A1A7BBDDFE9C5CB1B1F8013F3F9209F3B14.udd" 2019
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_BE8522AC4203083B587F6DAE759C148A___46DD572226B28B1080FD8C69F5C8B0114AFF9897.udd" 2020
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3217B8644B40CA6267367C82A8B4C__BE9094011572859D4C82F295B1C46064B253CF9E.udd" 2021
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_BE8522AC4203083B587F6DAE759C148A___9B993E9A6B033AE57FB7037DEAA23A0BE060CB9B.udd" 2022
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3217B8644B40CA6267367C82A8B4C__4438D4DAEB210D9A3F973D9897452B3292788C40.udd" 2023
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_BE8522AC4203083B587F6DAE759C148A___43648DE2EF5BAB072A9C61CAE2BDF510F46933EB.udd" 2024
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_BE8522AC4203083B587F6DAE759C148A___986F8E87796C909A636C55CEB58206C2344B8AE3.udd" 2025
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_BE8522AC4203083B587F6DAE759C148A___B38736ED1AADC0D7091FA9E9C7E539CF34C7CA51.udd" 2026
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1CD2E31C44E3E43F447309A928D77__B435C21245B9B05479622409847B863ADC98F053.udd" 2027
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1CD2E31C44E3E43F447309A928D77__18B061D802DD33EF8E240886B3AF7C9929C971F6.udd" 2028
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1CD2E31C44E3E43F447309A928D77__E10461C93CCA9CE3C8D7A2E0BD2BCFFB705B2614.udd" 2029
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1CD2E31C44E3E43F447309A928D77__F991768FB193DDAF734E6F0905A3EB445F38DF62.udd" 2030
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1CD2E31C44E3E43F447309A928D77__926E0A37CBF8F624B2D7A251EA86FFCAD235A0B2.udd" 2031
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_BAE9C3594921DC2173B24FAE3BB9291__FE8FFFBFB59F0281574BE7ADA500EC45F64DEB20.udd" 2032
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/3/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___2DECB5B7BF9F50686F6F8ECAB17859C367B5883C.udd" 2033
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/5/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___0920799EC868140FDA2421C87984F635724DE862.udd" 2034
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/7/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___967AD0E6D8B694F3B8222F8BCA8F4DC6626257BA.udd" 2035
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/4/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___5C2E8A3FDD965915665B782438CA3ADC8F37A3BC.udd" 2036
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDFDB5244CD5E634FA75B39F22EEA__0D1C0D6F250483F6B6FECCBA641C623341E9337B.udd" 2037
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDFDB5244CD5E634FA75B39F22EEA__39525419ABF647AE0D984C20BFADA8EF3411B817.udd" 2038
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDFDB5244CD5E634FA75B39F22EEA__FA5910013A532C487DCDAE3A793FF31F6A3A2FAC.udd" 2039
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDFDB5244CD5E634FA75B39F22EEA__FD7C20113AE677B0F8B7DF3CC4E9FD376FB3C49A.udd" 2040
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDFDB5244CD5E634FA75B39F22EEA__7E7FCB0E620B164BD0EA4924C48E024DAACF3D29.udd" 2041
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDFDB5244CD5E634FA75B39F22EEA__6FB5F88D211BD09E8BABD5B0EF80CC074C16AED6.udd" 2042
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_4B02FA3047FCAF59D6EBC9B1DF88122E___8A275A1BE64A7C0287050BDD294485BF50F05F2D.udd" 2043
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_4B02FA3047FCAF59D6EBC9B1DF88122E___D41BD2D4F5309B861CC3884CED0BAF603C9A0CEF.udd" 2044
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_4B02FA3047FCAF59D6EBC9B1DF88122E___FEAF5D3A7D08E2B41E9C5D4FF748BC78BFFF94F1.udd" 2045
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_186DFB0B44C67147C0C7E2984729B__A0134BAD27882AECD36891D79D4671761412C156.udd" 2046
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_186DFB0B44C67147C0C7E2984729B__72C6408ACEBF8E6B7F8A8EADB92DEC9FA07DB487.udd" 2047
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_4B02FA3047FCAF59D6EBC9B1DF88122E___C6FD84B4CDFEE9B600C1ECBD31C5095255BBEF26.udd" 2048
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_4B02FA3047FCAF59D6EBC9B1DF88122E___D5C56FDEDD22BA1D213CCA18E6EE7E88BB5E8678.udd" 2049
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_4B02FA3047FCAF59D6EBC9B1DF88122E___EE01A199A8FB6414EBEA22D888A0033B2F1326B2.udd" 2050
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_186DFB0B44C67147C0C7E2984729B__1CCA635378093D4697F39097616132DFD27EEF82.udd" 2051
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_186DFB0B44C67147C0C7E2984729B__DC538D28303D2A41C9238D8E3267F53CEF00353D.udd" 2052
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_186DFB0B44C67147C0C7E2984729B__0A39A1D0BCF797FA8485BA84ACC0A379722E3B12.udd" 2053
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_186DFB0B44C67147C0C7E2984729B__2DF8BFD4C331291C11DD5E247077508782B50476.udd" 2054
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/7/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___BE9D221F3FC6B9181295A35C07259BC77CCB9AC1.udd" 2055
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/7/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___BB1A493299DD49077BAC72E4A30CD220EC5938CE.udd" 2056
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E16A738E4E906B78ECE36089AE3B9__1DB9A9879CDE8CBF47D2CD141FBD566E409075EE.udd" 2057
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E16A738E4E906B78ECE36089AE3B9__DAF71792BA3AF12EB5827C65F67888FF24E1318F.udd" 2058
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EB9139C44220AB284E220091E9764__286242C5F96A685F2931CC856D4883F92C87F4E1.udd" 2059
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EB9139C44220AB284E220091E9764__B170630342CC632D012BA8B37DDA0461444431C0.udd" 2060
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E16A738E4E906B78ECE36089AE3B9__C250CFA7F299677A6698092F991F22A0BCDD8988.udd" 2061
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E16A738E4E906B78ECE36089AE3B9__281AC3999CED427D164C039AD1BEB11B31B59611.udd" 2062
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E16A738E4E906B78ECE36089AE3B9__EC51817EB1D72E46D44491118E535E453A6D0AF0.udd" 2063
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EB9139C44220AB284E220091E9764__AB70567425F606E6BE137572A069B39FBB8B0801.udd" 2064
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E16A738E4E906B78ECE36089AE3B9__0E2AC9EA6BCF0AF3EF97FB9914B67FB27B15A2AB.udd" 2065
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_B763C08B41EEA24471CF0E87255F9__CC25CA1808C09ADC50DD8F90EB1AF30EA856E7FA.udd" 2066
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EB9139C44220AB284E220091E9764__4ACF6E2E6E1EEAAA07C40DB4EA7027EC51FA0BCB.udd" 2067
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_B763C08B41EEA24471CF0E87255F9__FB4DE2FCC95CF72AD026893435CED4E7F5AC5D10.udd" 2068
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EB9139C44220AB284E220091E9764__3D573FBAF5FB439C1ADB4E9BBA237CA5E6E44211.udd" 2069
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EB9139C44220AB284E220091E9764__1AB62B12CE174E88C17D27D7F5EE6CFCAFCAE6FD.udd" 2070
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_60F13A974D57BF0AAEC9BB8983642__2490400B5AA972FC91619D640DE39FE1EEE95BDA.udd" 2071
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_B763C08B41EEA24471CF0E87255F9__70FBB6654C76A1E42AC2413B3C4D479556B88FEC.udd" 2072
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_B763C08B41EEA24471CF0E87255F9__C613095796D741E616D1163B870FD0D0151608AA.udd" 2073
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_B763C08B41EEA24471CF0E87255F9__2C6D35FCBD2406D0A80FE96AB30FC7DE704E000C.udd" 2074
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/5/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___8468576346D9B2EAA6686677BD2DA7F35EE3ABC9.udd" 2075
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_B763C08B41EEA24471CF0E87255F9__D153484D48E72DC86A8FE4BCC07B1E3316626002.udd" 2076
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/1/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___1E9CA44EDB0D2C21ECD8A97C24FA4852E5A84A9E.udd" 2077
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_1EE267F1451F4883086EC28EA83A9__A6BA1FFE841C372DE7103580638FDFAEF7B6282A.udd" 2078
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/8/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___37548FE6800CDFED9C038D09C3B511B9EBD500DC.udd" 2079
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/2/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___022537AB1040B91D685D21A55668D4DF06CB60E3.udd" 2080
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Maps/MainLevel.umap" 2081
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Maps/MainLevel_BuiltData.uasset" 2082
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/morning_hard_bird_wav_Cue.uasset" 2083
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/morning_hard_bird_wav.uasset" 2084
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/AlteredLUT.uasset" 2085
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/1/AUDIO_0005_0000_OGG_0001_BFB21A6843704DE5343B58A21B6375F9.udd" 2086
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_9D60C1854EB4BDE8567577AED316150D__1_0_0_0_2_13315_0.udd" 2087
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_309B97F94B6EFD8173C22B9FBD0897B1__1_0_0_0_2_13315_0.udd" 2088
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 2089
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 2090
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84FEE5EA48F3A693156149A4BBA6B__0D667B0DE7B6D4E98AD0D4C981F0299F5F4AD56B.udd" 2091
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84FEE5EA48F3A693156149A4BBA6B__CB8A7F075DB4AE672FAEE6CF42EFEA4EB6DDB6D7.udd" 2092
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C18CDF7747837F6C590CCE90E066A__625F88504976485B3AA134A8B894C05060DF6C1F.udd" 2093
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84FEE5EA48F3A693156149A4BBA6B__C046036B26586A627F29BA5A59F6AA5B2CC2EBC8.udd" 2094
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C18CDF7747837F6C590CCE90E066A__A25630FF36038E7E8F4BE2C1CC6980A672D12673.udd" 2095
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84FEE5EA48F3A693156149A4BBA6B__9BA1D1DCD5FEE9D1BF9A49F80BF090C127B93693.udd" 2096
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C18CDF7747837F6C590CCE90E066A__BF3AEAD3A13DF7E126C9A37DFDA8B9F574C70961.udd" 2097
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C18CDF7747837F6C590CCE90E066A__307E3B2448BD9A7BBF522A61FE54F7E5215979A5.udd" 2098
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C18CDF7747837F6C590CCE90E066A__56C83740A0D6A147578E8C0E0221A81454A02AFC.udd" 2099
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/1/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___A507470AE7487785286D2C4AD5B4000BCC307CA8.udd" 2100
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/3/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___713F59BE3B7D6BEF115C71F5D7CEEACF144231B7.udd" 2101
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0CACD0D54EEE385C932B90874C734__61273AB8BCD84FB1693D8F758B5EBDF0D9B26CD7.udd" 2102
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0CACD0D54EEE385C932B90874C734__737F5E17CB66D0D386BDD7052EDB418D5312C803.udd" 2103
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0CACD0D54EEE385C932B90874C734__9B380375A1EED5DFEB52035B0747C3BC4CFF178B.udd" 2104
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EF18317A4791FC0623A92088EF3E9__273563E722281223A0849007587D7B3D0D09FD94.udd" 2105
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EF18317A4791FC0623A92088EF3E9__70B9409D1C93C8B72EBECF0C086F16E4D92D3960.udd" 2106
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0CACD0D54EEE385C932B90874C734__21234D95A48EF3746BFBEF13995CFDFDA3AFF416.udd" 2107
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0CACD0D54EEE385C932B90874C734__D642BAB1C3695CEB72AAE9CBF900F2305C948E2D.udd" 2108
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_0CACD0D54EEE385C932B90874C734__2DB503F67EA534F67233ED12FC83428B8F84B216.udd" 2109
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EF18317A4791FC0623A92088EF3E9__48B0D4331016CD273A6A18AFC4C31DD3A6744E1A.udd" 2110
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5D8999E641F25963329048BF538E3__632F972091CAB608245A4D1671039C3BAC3624C5.udd" 2111
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5D8999E641F25963329048BF538E3__4D11A0316ED3CE6181FCD363BD76F806F66B87D6.udd" 2112
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EF18317A4791FC0623A92088EF3E9__0433E473C358B0933050867B146A1FF95470B92E.udd" 2113
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EF18317A4791FC0623A92088EF3E9__B0CA40CE0A4E3643E5364182DA11C3DFE345E0F1.udd" 2114
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EF18317A4791FC0623A92088EF3E9__758760A42953CF8C3A9A84369AEE67F30FD1D713.udd" 2115
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5D8999E641F25963329048BF538E3__374E85B34BC7BBCBEE8F86AC9956C0788E37F38F.udd" 2116
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5D8999E641F25963329048BF538E3__C816F54F05C5B42E20A36FFA3B6A52C51F374D6B.udd" 2117
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5D8999E641F25963329048BF538E3__CECC13C75BF9F76349A5188B55022F0620AC5D4E.udd" 2118
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_8EC1337746AE79994A4116AB94274__5D02D568E53825AB0723658D4C00863789972550.udd" 2119
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_5D8999E641F25963329048BF538E3__1563871AA83FB871F44822C986E17598C0BA5961.udd" 2120
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_8EC1337746AE79994A4116AB94274__A55F30D0C5C0F4E1716624A46A659BD1B43F95B9.udd" 2121
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_2F232B274646B87D613E4FA70A64724D__94A8ACA50D705ED2865EBEB90299A52D8F495EF3.udd" 2122
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_300AD9074A3352B4A2EC10ABCBB234D8_0__F695FCAFF87D85C1FAA1147B9B591579132825BF.udd" 2123
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_2F232B274646B87D613E4FA70A64724D__05D7FC8F2281B78A8A97C635CB0B6BC17621EDBC.udd" 2124
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_300AD9074A3352B4A2EC10ABCBB234D8_0__536BCDBA10E61A8550126A308C7E2FF9F6885A38.udd" 2125
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_75468A884AE8DE8115DA94BE4F977__D1699B52694780B5096488D9176C590F3F2FAE14.udd" 2126
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_1C950827441651B3B68D61BE13ECA84__545C85B513A81560CD40D81A9856BF328259D772.udd" 2127
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_75468A884AE8DE8115DA94BE4F977__991919D567BCEB648779740DA9B8877F6983DDCD.udd" 2128
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 2129
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 2130
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 2131
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 2132
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 2133
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 2134
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 2135
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 2136
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 2137
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 2138
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 2139
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 2140
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 2141
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 2142
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 2143
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 2144
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 2145
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 2146
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 2147
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 2148
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 2149
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 2150
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 2151
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 2152
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 2153
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/RollingGameMode.uasset" 2154
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoPC.uasset" 2155
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoeHUD.uasset" 2156
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Rolling/Materials/PM_Ball.uasset" 2157
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/M_OilPaintingPostProc_Inst.uasset" 2158
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/M_OilPaintingPostProc.uasset" 2159
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/1/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___A12EC22A0C00D3B4E4B169F9AE0C4EE95237A9FB.udd" 2160
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/2/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___4AD836C36B73101E5286BEFB4113CC50557990F2.udd" 2161
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/InsideMouthTop.uasset" 2162
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_DDBE633045009F3CCD0F558FC9BE936__458CA52931B4EAFE4840E4B451C4CC9236F66830.udd" 2163
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/InsideMouthBottom.uasset" 2164
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_6605C02A45E6E88E36DCE7B29D41B83__01EB5A1A8A62578FEA9AFBD37D197F887F21629D.udd" 2165
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/InsideCartoonHumanMouth.uasset" 2166
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_7CA805024F6E7D593F0DAC9E1B8BBBD__7DC978C8492E71EFB6CAC4668F4739FF0417D720.udd" 2167
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/GrippingHand_Skeleton.uasset" 2168
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/GrippingHand.uasset" 2169
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/0/SKELETALMESH_62632E8FC541408082BCF5CDBF0F301A_4ACBCCB344E8313B42E86AA801B568B80000000000000000000000000000000000.udd" 2170
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Window.uasset" 2171
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/1/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__166EAA2F7D18393D9102E59E19ECE23FE62FA397.udd" 2172
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/0/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_A8497D4B404788728__AE260CCF5CB76CAC6CEC0C1AC1202B74979338F3.udd" 2173
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_A8497D4B404788728A0B3392A09A6D9__D41A2B64A430E2677CD6D7E873742BC2990CEC86.udd" 2174
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/lambert2.uasset" 2175
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/0/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___E8C6B0793186DE2887869A46877DF8DF0CD004AB.udd" 2176
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/6/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___10367D5D825EE47B2BE2AAFC39F8D6907BC8E2CF.udd" 2177
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/UI/WB_GoodSky_Menu.uasset" 2178
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/Light_Function/M_GoodSky_StormLightning_LightFunction.uasset" 2179
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/5/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___1F8860AE4BC541ED76F85B5895CC5AE3D5E2860B.udd" 2180
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/6/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___F0CD734B816AE16F362B0FE60BD3B3DF29402B9D.udd" 2181
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/Materials/M_UMG_LogoMaterial.uasset" 2182
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/4/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM5_7__BC5N_NOCCBN_NOIRIS_DEV_SL___E5A397CB48A06CA7A3DC0F3078DF8A48002084E8.udd" 2183
+"C:/Users/Bradley McDonald/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/7/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___4FCD3A687D5E747C56707B4C0CD455A192BC30A1.udd" 2184
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_ObsticleParent.uasset" 2185
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_Lights.uasset" 2186
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 2187

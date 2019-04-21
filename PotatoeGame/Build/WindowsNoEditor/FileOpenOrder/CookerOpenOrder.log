@@ -1,402 +1,321 @@
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/building2_wav.uasset" 0
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/building2_wav_Cue.uasset" 1
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/building3long_wav.uasset" 2
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/building3long_wav_Cue.uasset" 3
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/building4thunder_wav.uasset" 4
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/building4thunder_wav_Cue.uasset" 5
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/building5_wav.uasset" 6
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/building5_wav_Cue.uasset" 7
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/building6longthunder_wav.uasset" 8
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/building6longthunder_wav_Cue.uasset" 9
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/building7_wav.uasset" 10
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/building7_wav_Cue.uasset" 11
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/building_wav.uasset" 12
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/building_wav_Cue.uasset" 13
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/morning_soft_bird_wav.uasset" 14
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/morning_soft_bird_wav_Cue.uasset" 15
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/near_surface_begin_strong_wav.uasset" 16
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/near_surface_begin_strong_wav_Cue.uasset" 17
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/rain2_wav.uasset" 18
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/rain2_wav_Cue.uasset" 19
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/rain3_wav.uasset" 20
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/rain3_wav_Cue.uasset" 21
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/rain4_wav.uasset" 22
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/rain4_wav_Cue.uasset" 23
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/rain5_wav.uasset" 24
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/rain5_wav_Cue.uasset" 25
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/rain_hard_wav.uasset" 26
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/rain_hard_wav_Cue.uasset" 27
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/rain_th_seamless_wav.uasset" 28
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/rain_th_seamless_wav_Cue.uasset" 29
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/rain_wav.uasset" 30
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/rain_wav_Cue.uasset" 31
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/th2_wav.uasset" 32
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/th2_wav_Cue.uasset" 33
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/th3_wav.uasset" 34
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/th3_wav_Cue.uasset" 35
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/th_b_wav.uasset" 36
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/th_b_wav_Cue.uasset" 37
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/th_semi_wav.uasset" 38
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/th_semi_wav_Cue.uasset" 39
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/th_wav.uasset" 40
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/th_wav_Cue.uasset" 41
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/urban_dots_wav.uasset" 42
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/urban_dots_wav_Cue.uasset" 43
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_Lights.uasset" 44
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_ObsticleParent.uasset" 45
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/Materials/M_UMG_LogoMaterial.uasset" 46
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_noise_smooth.uasset" 47
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_LightningFlick.uasset" 48
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/Light_Function/M_GoodSky_StormLightning_LightFunction.uasset" 49
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/M_green.uasset" 50
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/BurningBark/Burning_Bark_MAT.uasset" 51
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/Lava/LavaAO.uasset" 52
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/Lava/LavaBaseColour.uasset" 53
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/Lava/LavaEmissive.uasset" 54
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/Lava/LavaHeight.uasset" 55
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/Lava/LavaMetallic.uasset" 56
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/Lava/LavaNormal.uasset" 57
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/Lava/LavaRoughness.uasset" 58
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/Lava/M_Lava.uasset" 59
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/Lava/M_Lava_Inst.uasset" 60
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/TowerPieces/1M_TowerPieces.uasset" 61
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Cube.uasset" 62
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/lambert2.uasset" 63
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/RoomCube.uasset" 64
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 65
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 66
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 67
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 68
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 69
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 70
-"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 71
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uasset" 72
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_Albedo.uasset" 73
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_AO.uasset" 74
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_Displacement.uasset" 75
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_Normal.uasset" 76
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_Roughness.uasset" 77
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/M_WoodPlanks.uasset" 78
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/M_WoodPlanks_InstWall.uasset" 79
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Window.uasset" 80
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/HAND_C.uasset" 81
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/HAND_N_.uasset" 82
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/HAND_S.uasset" 83
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/Material_004.uasset" 84
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/GrippingHand_Skeleton.uasset" 85
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/GrippingHand.uasset" 86
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/InsideCartoonHumanMouth.uasset" 87
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/InsideMouthBottom.uasset" 88
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/InsideMouthTop.uasset" 89
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/M_OilPaintingPostProc.uasset" 90
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/M_OilPaintingPostProc_Inst.uasset" 91
-"../../../Engine/Content/EngineMaterials/Grid.uasset" 92
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Rolling/Materials/PM_Ball.uasset" 93
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Rolling/Materials/M_Blue_Checker.uasset" 94
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Rolling/Meshes/BallMesh.uasset" 95
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoeHUD.uasset" 96
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoPC.uasset" 97
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 98
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 99
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 100
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 101
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 102
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 103
-"../../../Engine/Content/BasicShapes/Cone.uasset" 104
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 105
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 106
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 107
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 108
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 109
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 110
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 111
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 112
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 113
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 114
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 115
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 116
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 117
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 118
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 119
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 120
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 121
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 122
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 123
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 124
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 125
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 126
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 127
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 128
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 129
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 130
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 131
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 132
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 133
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 134
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 135
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 136
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 137
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 138
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 139
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 140
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 141
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 142
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 143
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 144
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 145
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 146
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 147
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 148
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 149
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 150
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 151
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 152
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 153
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 154
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 155
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 156
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 157
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 158
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 159
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 160
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 161
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 162
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 163
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 164
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 165
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 166
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 167
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 168
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 169
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 170
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 171
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 172
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 173
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 174
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 175
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 176
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 177
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 178
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 179
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 180
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 181
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 182
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 183
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 184
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 185
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 186
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 187
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 188
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 189
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 190
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 191
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 192
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 193
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 194
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 195
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 196
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 197
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 198
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 199
-"../../../Engine/Content/EngineResources/Black.uasset" 200
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 201
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 202
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 203
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 204
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 205
-"../../../Engine/Content/EngineSounds/Master.uasset" 206
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 207
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 208
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 209
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 210
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 211
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 212
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 213
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 214
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 215
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 216
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 217
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 218
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 219
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 220
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 221
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 222
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 223
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 224
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 225
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 226
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 227
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 228
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 229
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 230
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 231
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 232
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 233
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 234
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 235
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 236
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 237
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 238
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 239
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 240
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 241
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 242
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 243
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 244
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 245
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 246
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 247
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 248
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 249
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 250
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 251
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 252
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 253
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 254
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 255
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 256
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 257
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 258
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 259
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_Stars.uasset" 260
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_AllOverlayColor.uasset" 261
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_BaseCloudColor.uasset" 262
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_DomeColor.uasset" 263
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_horizon_Color.uasset" 264
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection.uasset" 265
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Structure/Structure_GoodSky.uasset" 266
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/DataTable/DataTable_GoodSky.uasset" 267
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 268
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_SkyDomeAlpha.uasset" 269
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Time.uasset" 270
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_A.uasset" 271
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_B.uasset" 272
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_F.uasset" 273
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_sphere.uasset" 274
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/M_GoodSky_Base.uasset" 275
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 276
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 277
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsAroundPoint.uasset" 278
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_Moon.uasset" 279
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/M_GoodSky_Moon.uasset" 280
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uasset" 281
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 282
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 283
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 284
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 285
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 286
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 287
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 288
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 289
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 290
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_Lightning.uasset" 291
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/M_GoodSky_Storm.uasset" 292
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_Stars.uasset" 293
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/M_GoodSky_Sun_Stars.uasset" 294
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.uasset" 295
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.uasset" 296
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.uasset" 297
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.uasset" 298
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.uasset" 299
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Mesh/SM_GoodSky_Hemisphere.uasset" 300
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Mesh/SM_GoodSky_Sphere.uasset" 301
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_C.uasset" 302
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_D.uasset" 303
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_E.uasset" 304
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Blueprint/BP_GoodSky.uasset" 305
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/UI/WB_GoodSky_Menu.uasset" 306
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Maps/Level_GoodSky_Showcase.umap" 307
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoeGameState.uasset" 308
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/BP_GameJamKit_HUD_Interface.uasset" 309
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/PotatoeEatersPic.uasset" 310
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/UMG_GameJam_LoadingScreen_Widget.uasset" 311
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/bASE/UMG_GameJam_Button_Base.uasset" 312
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/UMG_GameJam_GameOver_Widget.uasset" 313
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/InGameWidget.uasset" 314
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/UMG_GameJam_PauseMenu_Widget.uasset" 315
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/InsideMouth.uasset" 316
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/MouthHUD.uasset" 317
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/BP_GameJamKit_InGame_HUD.uasset" 318
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Potatoe_M_Potatoe_BaseColor.uasset" 319
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Potatoe_M_Potatoe_Normal.uasset" 320
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Potatoe_M_Potatoe_OcclusionRoughnessMetallic.uasset" 321
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/M_Potatoe.uasset" 322
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Potatoe.uasset" 323
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PhysicsBallBP.uasset" 324
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoGameInstance.uasset" 325
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/M_Glass.uasset" 326
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Plate_lambert1_BaseColor.uasset" 327
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Plate_lambert1_Normal.uasset" 328
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Plate_lambert1_OcclusionRoughnessMetallic.uasset" 329
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/lambert1.uasset" 330
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Glass.uasset" 331
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Glass_DM.uasset" 332
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_Albedo.uasset" 333
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_AO.uasset" 334
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_Displacement.uasset" 335
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_Normal.uasset" 336
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_Roughness.uasset" 337
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/M_MudAndSticks.uasset" 338
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/M_MudAndSticks_Inst.uasset" 339
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Floor.uasset" 340
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/WindowWithWall.uasset" 341
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_EndOfLevel.uasset" 342
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Fork_WorldGridMaterial_BaseColor.uasset" 343
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Fork_WorldGridMaterial_Normal.uasset" 344
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Fork_WorldGridMaterial_OcclusionRoughnessMetallic.uasset" 345
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/WorldGridMaterial.uasset" 346
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Fork.uasset" 347
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/Bp_ForkTrap.uasset" 348
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/HandBlueprintMask/M_HandMask.uasset" 349
-"../../../Engine/Content/BasicShapes/Plane.uasset" 350
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/Hand_Gripping.uasset" 351
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_HandAndFork.uasset" 352
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Plate.uasset" 353
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_Plate.uasset" 354
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 355
-"../../../Engine/Content/BasicShapes/Cube.uasset" 356
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_SwingingLight.uasset" 357
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/KillBox.uasset" 358
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/M_WoodPlanks_Inst.uasset" 359
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Bottom_BaseColor.uasset" 360
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Bottom_Normal.uasset" 361
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Bottom_OcclusionRoughnessMetallic.uasset" 362
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Bottom.uasset" 363
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Top_BaseColor.uasset" 364
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Top_Normal.uasset" 365
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Top_OcclusionRoughnessMetallic.uasset" 366
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Top.uasset" 367
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table.uasset" 368
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Wall.uasset" 369
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_Platform.uasset" 370
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoeGameMode.uasset" 371
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Maps/MainLevel_BuiltData.uasset" 372
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/morning_hard_bird_wav.uasset" 373
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/morning_hard_bird_wav_Cue.uasset" 374
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/AlteredLUT.uasset" 375
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Maps/MainLevel.umap" 376
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/UMG_GameJam_MainMenu_Widget.uasset" 377
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/BP_GameJamKit_MainMenu_HUD.uasset" 378
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/MainMenuGM.uasset" 379
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Maps/MainMenu.umap" 380
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 381
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 382
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 383
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 384
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 385
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 386
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 387
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 388
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 389
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset" 390
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Rolling/Materials/BaseMaterial.uasset" 391
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Rolling/Materials/GrayMaterial.uasset" 392
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Rolling/Materials/GrayMetalMaterial.uasset" 393
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Rolling/Materials/OrangeMetalMaterial.uasset" 394
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Geometry/Meshes/CubeMaterial.uasset" 395
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Geometry/Meshes/1M_Cube.uasset" 396
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 397
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Geometry/Meshes/TemplateFloor.uasset" 398
-"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Maps/RollingBPExampleMap.umap" 399
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 400
-"../../../Engine/Content/Maps/Entry.umap" 401
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_Lights.uasset" 0
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_ObsticleParent.uasset" 1
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/Materials/M_UMG_LogoMaterial.uasset" 2
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_noise_smooth.uasset" 3
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_LightningFlick.uasset" 4
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/Light_Function/M_GoodSky_StormLightning_LightFunction.uasset" 5
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/UI/WB_GoodSky_Menu.uasset" 6
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/lambert2.uasset" 7
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 8
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 9
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 10
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 11
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 12
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 13
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 14
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uasset" 15
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_Albedo.uasset" 16
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_AO.uasset" 17
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_Displacement.uasset" 18
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_Normal.uasset" 19
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/tbykeacs_2K_Roughness.uasset" 20
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/M_WoodPlanks.uasset" 21
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/M_WoodPlanks_InstWall.uasset" 22
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Window.uasset" 23
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/HAND_C.uasset" 24
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/HAND_N_.uasset" 25
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/HAND_S.uasset" 26
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/Material_004.uasset" 27
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/GrippingHand_Skeleton.uasset" 28
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/GrippingHand.uasset" 29
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/InsideCartoonHumanMouth.uasset" 30
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/InsideMouthBottom.uasset" 31
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/InsideMouthTop.uasset" 32
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/M_OilPaintingPostProc.uasset" 33
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/M_OilPaintingPostProc_Inst.uasset" 34
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Rolling/Materials/PM_Ball.uasset" 35
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoeHUD.uasset" 36
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoPC.uasset" 37
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 38
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 39
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 40
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 41
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 42
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 43
+"../../../Engine/Content/BasicShapes/Cone.uasset" 44
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 45
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 46
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 47
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 48
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 49
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 50
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 51
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 52
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 53
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 54
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 55
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 56
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 57
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 58
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 59
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 60
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 61
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 62
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 63
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 64
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 65
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 66
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 67
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 68
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 69
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 70
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 71
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 72
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 73
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 74
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 75
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 76
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 77
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 78
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 79
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 80
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 81
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 82
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 83
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 84
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 85
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 86
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 87
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 88
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 89
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 90
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 91
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 92
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 93
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 94
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 95
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 96
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 97
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 98
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 99
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 100
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 101
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 102
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 103
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 104
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 105
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 106
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 107
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 108
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 109
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 110
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 111
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 112
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 113
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 114
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 115
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 116
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 117
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 118
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 119
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 120
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 121
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 122
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 123
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 124
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 125
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 126
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 127
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 128
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 129
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 130
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 131
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 132
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 133
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 134
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 135
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 136
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 137
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 138
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 139
+"../../../Engine/Content/EngineResources/Black.uasset" 140
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 141
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 142
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 143
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 144
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 145
+"../../../Engine/Content/EngineSounds/Master.uasset" 146
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 147
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 148
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 149
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 150
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 151
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 152
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 153
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 154
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 155
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 156
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 157
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 158
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 159
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 160
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 161
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 162
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 163
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 164
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 165
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 166
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 167
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 168
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 169
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 170
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 171
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 172
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 173
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 174
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 175
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 176
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 177
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 178
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 179
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 180
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 181
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 182
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 183
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 184
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 185
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 186
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 187
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 188
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 189
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 190
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 191
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 192
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 193
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 194
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 195
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 196
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 197
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 198
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 199
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoeGameState.uasset" 200
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/BP_GameJamKit_HUD_Interface.uasset" 201
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/PotatoeEatersPic.uasset" 202
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/UMG_GameJam_LoadingScreen_Widget.uasset" 203
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/bASE/UMG_GameJam_Button_Base.uasset" 204
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/UMG_GameJam_GameOver_Widget.uasset" 205
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/InGameWidget.uasset" 206
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/UMG_GameJam_PauseMenu_Widget.uasset" 207
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/InsideMouth.uasset" 208
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/MouthHUD.uasset" 209
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/BP_GameJamKit_InGame_HUD.uasset" 210
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Potatoe_M_Potatoe_BaseColor.uasset" 211
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Potatoe_M_Potatoe_Normal.uasset" 212
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Potatoe_M_Potatoe_OcclusionRoughnessMetallic.uasset" 213
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/M_Potatoe.uasset" 214
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Potatoe.uasset" 215
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PhysicsBallBP.uasset" 216
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoGameInstance.uasset" 217
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/M_Glass.uasset" 218
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Plate_lambert1_BaseColor.uasset" 219
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Plate_lambert1_Normal.uasset" 220
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Plate_lambert1_OcclusionRoughnessMetallic.uasset" 221
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/lambert1.uasset" 222
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Glass.uasset" 223
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Glass_DM.uasset" 224
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_Albedo.uasset" 225
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_AO.uasset" 226
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_Displacement.uasset" 227
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_Normal.uasset" 228
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/smspdebp_2K_Roughness.uasset" 229
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/M_MudAndSticks.uasset" 230
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/MudAndSticks/M_MudAndSticks_Inst.uasset" 231
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Floor.uasset" 232
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/WindowWithWall.uasset" 233
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_EndOfLevel.uasset" 234
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Fork_WorldGridMaterial_BaseColor.uasset" 235
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Fork_WorldGridMaterial_Normal.uasset" 236
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Fork_WorldGridMaterial_OcclusionRoughnessMetallic.uasset" 237
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/WorldGridMaterial.uasset" 238
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Fork.uasset" 239
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/Bp_ForkTrap.uasset" 240
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 241
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 242
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/HandBlueprintMask/M_HandMask.uasset" 243
+"../../../Engine/Content/BasicShapes/Plane.uasset" 244
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Hand/Hand_Gripping.uasset" 245
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_HandAndFork.uasset" 246
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Plate.uasset" 247
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_Plate.uasset" 248
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 249
+"../../../Engine/Content/BasicShapes/Cube.uasset" 250
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_SwingingLight.uasset" 251
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/KillBox.uasset" 252
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Materials/WoodPlanks/M_WoodPlanks_Inst.uasset" 253
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Bottom_BaseColor.uasset" 254
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Bottom_Normal.uasset" 255
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Bottom_OcclusionRoughnessMetallic.uasset" 256
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Bottom.uasset" 257
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Top_BaseColor.uasset" 258
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Top_Normal.uasset" 259
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Table_Top_OcclusionRoughnessMetallic.uasset" 260
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table_Top.uasset" 261
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Table/Table.uasset" 262
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Meshes/Wall.uasset" 263
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/BP_Platform.uasset" 264
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_Stars.uasset" 265
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_AllOverlayColor.uasset" 266
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_BaseCloudColor.uasset" 267
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_DomeColor.uasset" 268
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_horizon_Color.uasset" 269
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection.uasset" 270
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Structure/Structure_GoodSky.uasset" 271
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/DataTable/DataTable_GoodSky.uasset" 272
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 273
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_SkyDomeAlpha.uasset" 274
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Time.uasset" 275
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_A.uasset" 276
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_B.uasset" 277
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_F.uasset" 278
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_sphere.uasset" 279
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/M_GoodSky_Base.uasset" 280
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsAroundPoint.uasset" 281
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_Moon.uasset" 282
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/M_GoodSky_Moon.uasset" 283
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uasset" 284
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 285
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 286
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 287
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 288
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 289
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 290
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 291
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 292
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 293
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_Lightning.uasset" 294
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/M_GoodSky_Storm.uasset" 295
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_Stars.uasset" 296
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Materials/M_GoodSky_Sun_Stars.uasset" 297
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.uasset" 298
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.uasset" 299
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.uasset" 300
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.uasset" 301
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.uasset" 302
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Mesh/SM_GoodSky_Hemisphere.uasset" 303
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Mesh/SM_GoodSky_Sphere.uasset" 304
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_C.uasset" 305
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_D.uasset" 306
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Source/Textures/T_GoodSky_clouds_E.uasset" 307
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/GoodSky/Blueprint/BP_GoodSky.uasset" 308
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Blueprints/PotatoeGameMode.uasset" 309
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Maps/MainLevel_BuiltData.uasset" 310
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/WAV/morning_hard_bird_wav.uasset" 311
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/autumnbs/Audio/rainloops/CUE/morning_hard_bird_wav_Cue.uasset" 312
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Overlay/AlteredLUT.uasset" 313
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Maps/MainLevel.umap" 314
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/UMG/UMG_GameJam_MainMenu_Widget.uasset" 315
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/BP_GameJamKit_MainMenu_HUD.uasset" 316
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/Blueprints/HUD/PauseStuff/MainMenuGM.uasset" 317
+"E:/Uni Work/3rd_Year/PotatoeEaters/PotatoeGame/Content/RollingBP/Maps/MainMenu.umap" 318
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 319
+"../../../Engine/Content/Maps/Entry.umap" 320
